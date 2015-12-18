@@ -1,39 +1,51 @@
-library(maps,plyr)
-library(htmlwidgets)
-library(leaflet)
-library(magrittr)
 
 ####create table from website using rvest
 library(rvest)
+library(magrittr)
+library(plyr)
+##Capture HTML From BA Top 250 website and Parse it
 top250web <- read_html("http://www.beeradvocate.com/lists/top/")
 
-top250web %>% 
-      html_node("span") %>%
-      html_text() %>%
-      as.numeric()
-
-table250 <- top250web %>%
+t <- top250web %>%
       html_nodes("table") %>%
-      .[[1]] %>%
-      html_table()
+      .[[1]]
 
-table250 <- table250[-c(1,2),]
-rownames(table250) <- seq(length=nrow(table250))
+##Parse Beer, Brewery, and Style, and add Rank
+o <- t %>%
+      html_nodes("a") %>% ##gives beer, brewery, style      
+      html_text()
+BBS <- as.data.frame(matrix(o,nrow=250,ncol=3,byrow = TRUE))
+BBS$Rank <- seq(1,250, by =1)
+colnames(BBS) <- c("Beer", "Brewery", "Style", "Rank")
 
-###split Reviews and Hads and make them numeric
-table250 <- cbind(table250, with(table250, data.frame(do.call('rbind', strsplit(X4, '|', fixed=TRUE)))))[,-4]
-for(i in c(1,3:ncol(table250))) {table250[,i] <- as.numeric(table250[,i])}
+##Parse Rank, Beer, Hads remove bang from Hads, Merge with BBS
+h <- t %>%
+      html_nodes("span") %>% ##gives rank, beer, hads
+      html_text()
+h <- h[2:751]
+RBH <- as.data.frame(matrix(h,nrow=250,ncol=3,byrow = TRUE))
+colnames(RBH) <- c("Rank", "Mush", "Hads")
+Merge1 <- merge(BBS, RBH, by.x = "Rank", by.y = "Rank")
+Merge1[,6] <- gsub("\\W","",Merge1[,6])
 
-###Split apart Beer, Brewery, Style, and ABV
-library(stringr, qdap)
+##Parse Beer, Rating, Reviews, merge with Merge1
+u <- t %>%
+      html_nodes("b") %>% ##gives beer, rating, reviews
+      html_text()
+BRR <- as.data.frame(matrix(u,nrow=250,ncol=3,byrow = TRUE))
+colnames(BRR) <- c("Beer", "Rating", "Reviews")
+Merge2 <- merge(Merge1,BRR, by.x = "Beer", by.y = "Beer")
+
+###Split apart ABV
+library(stringr)
 ABVSplit <- data.frame(String=character(),ABV=character())
 
-for (i in table250[,2]) {
+for (i in Merge2[,5]) {
       if (str_count(i,"/") == 2){
-            String <- word(i, 1, 2, " / ")
+            String <- i ##word(i, 1, 2, " / ")
             ABV <- word(i, 3, -1, " / ")
       } else if ((str_count(i,"/") == 1)&(str_detect(i,'/ [:digit:]') == TRUE)){
-            String <- word(i, 1, 1, " / ")
+            String <- i ##word(i, 1, 1, " / ")
             ABV <- word(i, 2, -1, " / ")
       } else {
             String <- i
@@ -42,69 +54,42 @@ for (i in table250[,2]) {
       df2 <- data.frame(String,ABV)
       ABVSplit <- rbind(ABVSplit,df2)
 } 
- 
-rm(df2,ABV,String,i)
 
-table250 <- cbind(table250,ABVSplit)[,-2]
+
+Merge3 <- merge(Merge2,ABVSplit, by.x = "Mush", by.y = "String")
+Top250 <- Merge3[c(3,2,4,5,9,7,8,6)]
+Top250 <- Top250[order(Top250[,1]),]
+rm(df2,ABV,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit,top250web)
+
+
+###Make Rank, Rating, Reviews and Hads numeric
+for(i in c(1,7:ncol(Top250))) {Top250[,i] <- as.numeric(Top250[,i])}
+Top250[,6] <- as.numeric(as.character(Top250[,6]))
+rownames(Top250) <- 1:250
 
 ###This is a bunch of clean up that needs to be done better, qdap doesn't really work
-table250[,5] <- gsub('\\.','',table250[,5])
-table250[,5] <- gsub("3 Floyds","Three Floyds",table250[,5])
-table250[,5] <- gsub("Co\\.","Company",table250[,5])
-table250[,5] <- gsub("IPA","IPa",table250[,5])
-table250[,5] <- gsub(")","z",table250[,5])
-table250[,5] <- gsub("Inc.","Inc",table250[,5])
-table250[,5] <- gsub("#4","#Four",table250[,5])
-table250[,5] <- gsub("#5","#Five",table250[,5])
-table250[,5] <- gsub("#6","#Six",table250[,5])
-table250[,5] <- gsub("!","!z",table250[,5])
-table250[,5] <- gsub("Trappistes Rochefort 10Brasserie","Trappistes Rochefort TenBrasserie",table250[,5])
-table250[,5] <- gsub("St. Bernardus Abt 12","St. Bernardus Abt Twelve",table250[,5])
-table250[,5] <- gsub(" NV"," Nv",table250[,5])
-table250[,5] <- gsub("\\&\\+Peg's","&+zPeg's",table250[,5])
-table250[,5] <- gsub("Enlightenment\\?Hill","EnlightenmentHill",table250[,5])
-table250[,5] <- gsub("2014New","2014zNew",table250[,5])
-table250[,5] <- gsub("FIDYOskar","FidyOskar",table250[,5])
-table250[,5] <- gsub("3The","ThreeThe",table250[,5])
-table250[,5] <- gsub("4 Hands","Four Hands",table250[,5])
-table250[,5] <- gsub("1Peg's","OnePeg's",table250[,5])
-table250[,5] <- gsub("BDCSOzark","BDCsOzark",table250[,5])
-table250[,5] <- gsub("10","Ten",table250[,5])
-table250[,5] <- gsub("#15","#15z",table250[,5])
-table250[,5] <- gsub("PseudoSue","Pseudosue",table250[,5])
-table250[,5] <- gsub("AleSmith","Alesmith",table250[,5])
-table250[,5] <- gsub("Blåbær","Blabaer",table250[,5])
-table250[,5] <- gsub("FiftyFifty","Fifty50",table250[,5])
-table250[,5] <- gsub("é","e",table250[,5])
-table250[,5] <- gsub("è","e",table250[,5])
-table250[,5] <- gsub("JuJu","Juju",table250[,5])
-table250[,5] <- gsub("HefeWeizen","Hefeweizen",table250[,5])
-table250[,5] <- gsub("ScareCity","Scarecity",table250[,5])
-table250[,5] <- gsub("ö","o",table250[,5])
-table250[,5] <- gsub("ä","a",table250[,5])
 
+Top250 <- gsub("å","a",as.matrix(Top250))
+Top250 <- gsub("æ","ae",as.matrix(Top250))
+Top250 <- gsub("é","e",as.matrix(Top250))
+Top250 <- gsub("è","e",as.matrix(Top250))
+Top250 <- gsub("ö","o",as.matrix(Top250))
+Top250 <- gsub("ä","a",as.matrix(Top250))
+Top250 <- gsub("û","u",as.matrix(Top250))
+Top250 <- gsub("§","�",as.matrix(Top250))
 
-BeerSplit <- data.frame(Beer = character(),Brewery=character(),Style=character())
-
-for (i in table250[,5]) {
-      o <- unlist(str_locate_all(pattern = '[:lower:][:upper:]',i))
-      Beer <- str_sub(i,end = o[[1]])
-      Brewery <- str_sub(i,o[[3]],o[[2]])
-      Style <- str_sub(i,o[[4]],str_length(i))
-      df1 <- data.frame(Beer,Brewery,Style)
-      BeerSplit <- rbind(BeerSplit,df1)
-      rm(i,o)
-}
-
-Top250clean <- cbind(table250,BeerSplit)[,-5]
-
-rm(BeerSplit,ABVSplit,df1,table250,Beer,Brewery,i,o)
-
+##Save the table as a .csv
 currentDate <- Sys.Date() 
 csvFileName <- paste("Top 250 Beers_",currentDate,".csv",sep="") 
-write.csv(Top250clean, file=csvFileName, row.names = FALSE) 
+write.csv(Top250, file=csvFileName, row.names = FALSE) 
+
 
 #####Make a map, chug some numbers
+library(maps,plyr)
+library(htmlwidgets)
+library(leaflet)
+library(magrittr)
+
 top250 <- read.csv("Top 250 Beers.csv")
 BeerMap <- leaflet() %>% 
       addTiles() %>% 
