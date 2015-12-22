@@ -3,6 +3,10 @@
 library(rvest)
 library(magrittr)
 library(plyr)
+library(stringr)
+
+setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
+
 ##Capture HTML From BA Top 250 website and Parse it
 top250web <- read_html("http://www.beeradvocate.com/lists/top/")
 
@@ -37,7 +41,6 @@ colnames(BRR) <- c("Beer", "Rating", "Reviews")
 Merge2 <- merge(Merge1,BRR, by.x = "Beer", by.y = "Beer")
 
 ###Split apart ABV
-library(stringr)
 ABVSplit <- data.frame(String=character(),ABV=character())
 
 for (i in Merge2[,5]) {
@@ -59,24 +62,20 @@ for (i in Merge2[,5]) {
 Merge3 <- merge(Merge2,ABVSplit, by.x = "Mush", by.y = "String")
 Top250 <- Merge3[c(3,2,4,5,9,7,8,6)]
 Top250 <- Top250[order(Top250[,1]),]
-rm(df2,ABV,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit,top250web)
+rm(df2,ABV,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit)
 
 
 ###Make Rank, Rating, Reviews and Hads numeric
 for(i in c(1,7:ncol(Top250))) {Top250[,i] <- as.numeric(Top250[,i])}
 Top250[,6] <- as.numeric(as.character(Top250[,6]))
+###This will fix non-American letters back to the original
+Top250[,2] <- as.character(Top250[,2])
+Top250[,3] <- as.character(Top250[,3])
+Encoding(Top250[,2]) <- "UTF-8"
+Encoding(Top250[,3]) <- "UTF-8"
+
 rownames(Top250) <- 1:250
 
-###This is a bunch of clean up that needs to be done better, qdap doesn't really work
-
-Top250 <- gsub("å","a",as.matrix(Top250))
-Top250 <- gsub("æ","ae",as.matrix(Top250))
-Top250 <- gsub("é","e",as.matrix(Top250))
-Top250 <- gsub("è","e",as.matrix(Top250))
-Top250 <- gsub("ö","o",as.matrix(Top250))
-Top250 <- gsub("ä","a",as.matrix(Top250))
-Top250 <- gsub("û","u",as.matrix(Top250))
-Top250 <- gsub("§","�",as.matrix(Top250))
 
 ##Save the table as a .csv
 currentDate <- Sys.Date() 
