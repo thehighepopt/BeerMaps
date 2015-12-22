@@ -105,3 +105,9 @@ top250byBrewery <- arrange(as.data.frame(table(top250$Brewery)),desc(Freq))
 top25 <- subset(top250, Rank < 26)
 top25byBrewery <- arrange(as.data.frame(table(top25$Brewery)),desc(Freq))
 
+##http://beermapsandstats.weebly.com/
+##Beer Mapping Project API key:
+##b110d4b01e66ce5aaf3452736aaa1f88
+
+
+
