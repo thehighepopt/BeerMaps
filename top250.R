@@ -62,7 +62,7 @@ for (i in Merge2[,5]) {
 Merge3 <- merge(Merge2,ABVSplit, by.x = "Mush", by.y = "String")
 Top250 <- Merge3[c(3,2,4,5,9,7,8,6)]
 Top250 <- Top250[order(Top250[,1]),]
-rm(df2,ABV,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit)
+rm(df2,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit)
 
 
 ###Make Rank, Rating, Reviews and Hads numeric

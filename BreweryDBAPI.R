@@ -2,6 +2,7 @@
 ##b110d4b01e66ce5aaf3452736aaa1f88
 ####BreweryDB API Key:
 ##a8f42586b1a7e5c1492493fd4fad37d2
+##http://www.brewerydb.com/
 
 
 #Load packages, set working directory
@@ -23,12 +24,14 @@ library(XML)
 setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
 
 ##send API request
-getUrl <- function(brewery,sensor = "false") {
-      root <- "http://beermapping.com/webservice/locquery/"
-      bmapi <- "b110d4b01e66ce5aaf3452736aaa1f88"
-      u <- paste0(root,bmapi,"/",brewery)
+getUrl <- function(request) {
+      root <- "http://api.brewerydb.com/v2/"
+      bdbapi <- "/?key=a8f42586b1a7e5c1492493fd4fad37d2"
+      u <- paste0(root,request,bdbapi)
       return(URLencode(u))
 }
+
+e <- getUrl("locations")
 
 Breweries <- unique(Top250[,3])
 
