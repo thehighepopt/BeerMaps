@@ -23,37 +23,73 @@ library(XML)
 setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
 
 ##send API request
-getUrl <- function(brewery,sensor = "false") {
+###URL generating function
+getUrladdr <- function(brewery,sensor = "false") {
       root <- "http://beermapping.com/webservice/locquery/"
-      bmapi <- "b110d4b01e66ce5aaf3452736aaa1f88"
-      u <- paste0(root,bmapi,"/",brewery)
+      bmapikey <- "b110d4b01e66ce5aaf3452736aaa1f88"
+      u <- paste0(root,bmapikey,"/",brewery)
       return(URLencode(u))
 }
 
-Breweries <- unique(Top250[,3])
+Breweries <- substr(unique(Top250[,3]),1,20) 
 
-###loop it
-Brewloc <- as.data.frame(matrix(,nrow = 0, ncol = 10))
+###loop it to create a df with brewery and addresses
+Brewaddr <- as.data.frame(matrix(,nrow = 0, ncol = 10))
 
 for (x in Breweries) {
-e <- getUrl(x)
-t <- content(GET(e, accept_xml()))
-x <- data.frame(BMid = xpathSApply(t, "//location//id", xmlValue),
-                name = xpathSApply(t, "//location//name", xmlValue),
-                status = xpathSApply(t, "//location//status", xmlValue),
-                street = xpathSApply(t, "//location//street", xmlValue),
-                city = xpathSApply(t, "//location//city", xmlValue),
-                state = xpathSApply(t, "//location//state", xmlValue),
-                zip = xpathSApply(t, "//location//zip", xmlValue),
-                country = xpathSApply(t, "//location//country", xmlValue),
-                phone = xpathSApply(t, "//location//phone", xmlValue),
-                rating= xpathSApply(t, "//location//overall", xmlValue)
-                )
+    e <- getUrladdr(x)
+    t <- content(GET(e, accept_xml()))
+    g <- data.frame(BMid = xpathSApply(t, "//location//id", xmlValue),
+                  name = xpathSApply(t, "//location//name", xmlValue),
+                  status = xpathSApply(t, "//location//status", xmlValue),
+                  street = xpathSApply(t, "//location//street", xmlValue),
+                  city = xpathSApply(t, "//location//city", xmlValue),
+                  state = xpathSApply(t, "//location//state", xmlValue),
+                  zip = xpathSApply(t, "//location//zip", xmlValue),
+                  country = xpathSApply(t, "//location//country", xmlValue),
+                  phone = xpathSApply(t, "//location//phone", xmlValue),
+                  rating= xpathSApply(t, "//location//overall", xmlValue)
+                  )
 
-Brewloc <- rbind(Brewloc,x)
-rm(x)
-}
+    Brewaddr <- rbind(Brewaddr,g)
+    }
+##set up to take the lowest ID if there are multiple locations
 ##Then you want to use ids in Brewloc to get lat and long from locmap
+rm(g,e,t)
+Brewaddr[,1] <- as.numeric(as.character(Brewaddr[,1]))
+Brewaddr[,10] <- as.numeric(as.character(Brewaddr[,10]))
+
+Brewaddr <- Brewaddr[!(Brewaddr[,10]==0),]
+Brewaddr <- Brewaddr[!(Brewaddr[,1]==0),]
+Brewaddr <- Brewaddr[complete.cases(Brewaddr),]
+
+getUrlmap <- function(id,sensor = "false") {
+      root <- "http://beermapping.com/webservice/locmap/"
+      bmapikey <- "b110d4b01e66ce5aaf3452736aaa1f88"
+      u <- paste0(root,bmapikey,"/",id)
+      return(URLencode(u))
+}
+
+Brewids <- Brewaddr[,1]
+
+Brewmap <- as.data.frame(matrix(,nrow = 0, ncol = 3))
+
+for (x in Brewids) {
+      e <- getUrlmap(x)
+      t <- content(GET(e, accept_xml()))
+      g <- data.frame(name = xpathSApply(t, "//location//name", xmlValue),
+                      lat = xpathSApply(t, "//location//lat", xmlValue),
+                      lng = xpathSApply(t, "//location//lng", xmlValue)
+      )
+      
+      Brewmap <- rbind(Brewmap,g)
+}
+
+rm(g,e,t)
+
+Brewmap[,2] <- as.numeric(as.character(Brewmap[,2]))
+
+Brewmap <- Brewmap[!(Brewmap[,2]==0),]
 
 ##creates URL for map point static map
 base="http://maps.googleapis.com/maps/api/staticmap?center="

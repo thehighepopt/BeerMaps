@@ -76,12 +76,15 @@ Encoding(Top250[,3]) <- "UTF-8"
 
 rownames(Top250) <- 1:250
 
+trim <- function (x) gsub("^\\s+|\\s+$", "", x)
+Top250[,3] <- trim(Top250[,3])
+Top250[,3] <- gsub("3", "Three",Top250[,3])
 
-##Save the table as a .csv
+##Save the data frame as a .csv
 currentDate <- Sys.Date() 
 csvFileName <- paste("Top 250 Beers_",currentDate,".csv",sep="") 
 write.csv(Top250, file=csvFileName, row.names = FALSE) 
-
+rm(i,csvFileName,currentDate)
 
 #####Make a map, chug some numbers
 library(maps,plyr)
