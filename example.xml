@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<data>
+<tr id="1">
+    <A id="100">100</A>
+    <B>abc</B>
+    <C>true</C>
+</tr>
+<tr id="2">
+    <A id="200">200</A>
+    <B>wxyz</B>
+    <C>FALSE</C>
+</tr>
+</data>
