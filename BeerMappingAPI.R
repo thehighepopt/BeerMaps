@@ -31,7 +31,7 @@ getUrladdr <- function(brewery,sensor = "false") {
       return(URLencode(u))
 }
 
-Breweries <- substr(unique(Top250[,3]),1,20) 
+Breweries <- substr(unique(Top250[1,3]),1,20) 
 
 ###loop it to create a df with brewery and addresses
 Brewaddr <- as.data.frame(matrix(,nrow = 0, ncol = 10))

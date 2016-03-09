@@ -79,6 +79,7 @@ rownames(Top250) <- 1:250
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
 Top250[,3] <- trim(Top250[,3])
 Top250[,3] <- gsub("3", "Three",Top250[,3])
+Top250[,3] <- gsub("Co\\.", "Company",Top250[,3])
 
 ##Save the data frame as a .csv
 currentDate <- Sys.Date() 

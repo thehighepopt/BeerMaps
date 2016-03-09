@@ -25,33 +25,87 @@ setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
 
 ##send API request
 getUrl <- function(request) {
-      root <- "http://api.brewerydb.com/v2/"
-      bdbapi <- "/?key=a8f42586b1a7e5c1492493fd4fad37d2"
+      root <- "http://api.brewerydb.com/v2/breweries?name="
+      bdbapi <- "&key=a8f42586b1a7e5c1492493fd4fad37d2"
       u <- paste0(root,request,bdbapi)
       return(URLencode(u))
 }
+##https://api.brewerydb.com/v2/beers?name=60%20minute%20IPA&key=[mykey]
+##https://api.brewerydb.com/v2/adjuncts?key=[yourkey]
+"http://api.brewerydb.com/v2/breweries?name=Austin%20Beerworks&key=a8f42586b1a7e5c1492493fd4fad37d2"
+e <- getUrl("Three Floyds Brewing Company")
+e <- getUrl("locations?postalCode=78736")
 
-e <- getUrl("locations")
-
-Breweries <- unique(Top250[,3])
+Breweries <- unique(Top250[4:10,3])
 
 ###loop it
-Brewloc <- as.data.frame(matrix(,nrow = 0, ncol = 10))
+Brewid <- as.data.frame(matrix(,nrow = 0, ncol = 2))
 
 for (x in Breweries) {
 e <- getUrl(x)
 t <- content(GET(e, accept_xml()))
-x <- data.frame(BMid = xpathSApply(t, "//location//id", xmlValue),
-                name = xpathSApply(t, "//location//name", xmlValue),
-                status = xpathSApply(t, "//location//status", xmlValue),
-                street = xpathSApply(t, "//location//street", xmlValue),
-                city = xpathSApply(t, "//location//city", xmlValue),
-                state = xpathSApply(t, "//location//state", xmlValue),
-                zip = xpathSApply(t, "//location//zip", xmlValue),
-                country = xpathSApply(t, "//location//country", xmlValue),
-                phone = xpathSApply(t, "//location//phone", xmlValue),
-                rating= xpathSApply(t, "//location//overall", xmlValue)
-                )
+x <- data.frame(BDBid = xpathSApply(t, "//item/id", xmlValue),
+                name = xpathSApply(t, "//item//name", xmlValue))
+Brewid <- rbind(Brewid,x)
+
+}
+
+getUrlbeer <- function(request) {
+    root <- "http://api.brewerydb.com/v2/beers?name="
+    bdbapi <- "&key=a8f42586b1a7e5c1492493fd4fad37d2"
+    u <- paste0(root,request,bdbapi)
+    return(URLencode(u))
+}
+##https://api.brewerydb.com/v2/beers?name=60%20minute%20IPA&key=[mykey]
+##https://api.brewerydb.com/v2/adjuncts?key=[yourkey]
+"http://api.brewerydb.com/v2/breweries?name=Austin%20Beerworks&key=a8f42586b1a7e5c1492493fd4fad37d2"
+e <- getUrlbeer("Mosaic IPA")
+Beers <- Top250$Beer
+
+Beerid <- as.data.frame(matrix(,nrow = 0, ncol = 7))
+
+for (i in Beers) {
+    e <- getUrlbeer(i)
+    t <- content(GET(e, accept_xml()))
+    x <- data.frame(BDBeerid = xpathSApply(t, "//item/id", xmlValue),
+                    name = xpathSApply(t, "//item/name", xmlValue),
+                    SRM = xpathSApply(t, "//item/srmId", xmlValue),
+                    icon = xpathSApply(t, "//labels/icon", xmlValue),
+                    medLabel = xpathSApply(t, "//labels/medium", xmlValue),
+                    lrgLabel = xpathSApply(t, "//labels/large", xmlValue),
+                    style = xpathSApply(t, "//style/name", xmlValue)
+                    )
+    Beerid <- rbind(Beerid,x)
+    
+}
+
+
+
+
+
+Brewloc <- as.data.frame(matrix(,nrow = 0, ncol = 10))
+x <- data.frame(BDBid = xpathSApply(t, "//item/id", xmlValue),
+                breweryId = xpathSApply(t, "//brewery/id", xmlValue),
+                name = xpathSApply(t, "//brewery//name", xmlValue),
+                type = xpathSApply(t, "//item//locationTypeDisplay", xmlValue),
+                street = xpathSApply(t, "//item//streetAddress", xmlValue),
+                city = xpathSApply(t, "//item//locality", xmlValue),
+                state = xpathSApply(t, "//item//region", xmlValue),
+                zip = xpathSApply(t, "//item//postalCode", xmlValue),
+                country = xpathSApply(t, "//country//name", xmlValue),
+                phone = xpathSApply(t, "//item//phone", xmlValue),
+                rating= xpathSApply(t, "//item//overall", xmlValue),
+                lng = xpathSApply(t, "//item//longitude", xmlValue),
+                lat = xpathSApply(t, "//item//latitude", xmlValue),
+                phone = xpathSApply(t, "//item//phone", xmlValue),
+                site = xpathSApply(t, "//brewery//website", xmlValue),
+                openSince = xpathSApply(t, "//brewery//established", xmlValue),
+                openToPublic = xpathSApply(t, "//item//openToPublic", xmlValue),
+                clob = xpathSApply(t, "//brewery//description", xmlValue),
+                status = xpathSApply(t, "//brewery//status", xmlValue),
+                isPrimary = xpathSApply(t, "//item//isPrimary", xmlValue),
+                isClosed = xpathSApply(t, "//item//isClosed", xmlValue)
+)
 
 Brewloc <- rbind(Brewloc,x)
 rm(x)
