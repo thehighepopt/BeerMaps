@@ -1,4 +1,4 @@
-
+##https://www.pastemagazine.com/articles/2016/08/247-of-the-best-american-ipas-blind-tasted-and-ran.html
 ####create table from website using rvest
 library(rvest)
 library(magrittr)
@@ -26,11 +26,11 @@ colnames(BBS) <- c("Beer", "Brewery", "Style", "Rank")
 h <- t %>%
       html_nodes("span") %>% ##gives rank, beer, hads
       html_text()
-h <- h[2:751]
-RBH <- as.data.frame(matrix(h,nrow=250,ncol=3,byrow = TRUE))
-colnames(RBH) <- c("Rank", "Mush", "Hads")
+h <- h[2:501]
+RBH <- as.data.frame(matrix(h,nrow=250,ncol=2,byrow = TRUE))
+colnames(RBH) <- c("Rank", "Ratings")
 Merge1 <- merge(BBS, RBH, by.x = "Rank", by.y = "Rank")
-Merge1[,6] <- gsub("\\W","",Merge1[,6])
+Merge1[,5] <- gsub("\\W","",Merge1[,5])
 
 ##Parse Beer, Rating, Reviews, merge with Merge1
 u <- t %>%
@@ -40,29 +40,39 @@ BRR <- as.data.frame(matrix(u,nrow=250,ncol=3,byrow = TRUE))
 colnames(BRR) <- c("Beer", "Rating", "Reviews")
 Merge2 <- merge(Merge1,BRR, by.x = "Beer", by.y = "Beer")
 
+q <- t %>%
+    html_nodes("div") %>%       
+    html_text()
+abv <- as.data.frame(matrix(q,nrow=250,ncol=1,byrow = TRUE))
+
+abv[,1] <- as.character(abv[,1])
+pars <- function(x) word(x,-2,-2)
+abv[,2] <- sapply(abv[,1],pars)
+abv$Rank <- seq(1,250, by =1)
+colnames(abv) <- c("Mush", "ABV", "Rank")
+
 ###Split apart ABV
-ABVSplit <- data.frame(String=character(),ABV=character())
+# ABVSplit <- data.frame(String=character(),ABV=character())
+# 
+# for (i in abv) {
+#       if (str_count(i,"/") == 2){
+#             String <- i ##word(i, 1, 2, " / ")
+#             ABV <- word(i, 3, -1, " / ")
+#       } else if ((str_count(i,"/") == 1)&(str_detect(i,'/ [:digit:]') == TRUE)){
+#             String <- i ##word(i, 1, 1, " / ")
+#             ABV <- word(i, 2, -1, " / ")
+#       } else {
+#             String <- i
+#             ABV <- NA
+#       }
+#       df2 <- data.frame(String,ABV)
+#       ABVSplit <- rbind(ABVSplit,df2)
+# } 
 
-for (i in Merge2[,5]) {
-      if (str_count(i,"/") == 2){
-            String <- i ##word(i, 1, 2, " / ")
-            ABV <- word(i, 3, -1, " / ")
-      } else if ((str_count(i,"/") == 1)&(str_detect(i,'/ [:digit:]') == TRUE)){
-            String <- i ##word(i, 1, 1, " / ")
-            ABV <- word(i, 2, -1, " / ")
-      } else {
-            String <- i
-            ABV <- NA
-      }
-      df2 <- data.frame(String,ABV)
-      ABVSplit <- rbind(ABVSplit,df2)
-} 
 
-
-Merge3 <- merge(Merge2,ABVSplit, by.x = "Mush", by.y = "String")
-Top250 <- Merge3[c(3,2,4,5,9,7,8,6)]
-Top250 <- Top250[order(Top250[,1]),]
-rm(df2,String,i,Merge1,o,Merge2,Merge3,h,t,ABV,u,BBS,BRR,RBH,ABVSplit)
+Merge3 <- merge(Merge2,abv, by = "Rank")
+Top250 <- Merge3[c(1,2,3,4,9,6,5,7)]
+rm(Merge1,o,Merge2,Merge3,h,t,u,BBS,BRR,RBH,abv,pars,q)
 
 
 ###Make Rank, Rating, Reviews and Hads numeric
@@ -81,11 +91,17 @@ Top250[,3] <- trim(Top250[,3])
 Top250[,3] <- gsub("3", "Three",Top250[,3])
 Top250[,3] <- gsub("Co\\.", "Company",Top250[,3])
 
+addr <- read.csv("brewery_addr.csv")
+
+Top250 <- merge(Top250,addr,by = "Brewery")
+Top250 <- Top250[,c(2,1,3:13)]
+Top250 <- Top250[order(Top250[,1]),]
+
 ##Save the data frame as a .csv
 currentDate <- Sys.Date() 
 csvFileName <- paste("Top 250 Beers_",currentDate,".csv",sep="") 
 write.csv(Top250, file=csvFileName, row.names = FALSE) 
-rm(i,csvFileName,currentDate)
+rm(csvFileName,currentDate,addr,trim,top250web)
 
 #####Make a map, chug some numbers
 library(maps,plyr)
