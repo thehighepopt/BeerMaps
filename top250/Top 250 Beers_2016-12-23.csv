@@ -1,0 +1,251 @@
+"Rank","Brewery","Beer","Style","ABV","Rating","Ratings","Reviews"
+1,"Tree House Brewing Company","Good Morning","American Double / Imperial Stout","8.40%",4.72,1005,70
+2,"Toppling Goliath Brewing Company","Kentucky Brunch Brand Stout","American Double / Imperial Stout","12.00%",4.7,531,183
+3,"Tree House Brewing Company","King Julius","American Double / Imperial IPA","8.30%",4.67,710,29
+4,"Russian River Brewing Company","Pliny The Younger","American Double / Imperial IPA","10.25%",4.66,2984,186
+5,"Tree House Brewing Company","Very Hazy","American Double / Imperial IPA","8.60%",4.66,510,174
+6,"Toppling Goliath Brewing Company","Mornin' Delight","American Double / Imperial Stout","12.00%",4.66,1022,56
+7,"Cigar City Brewing","Hunahpu's Imperial Stout - Double Barrel Aged","American Double / Imperial Stout","11.00%",4.66,1341,32
+8,"The Alchemist","Heady Topper","American Double / Imperial IPA","8.00%",4.65,12931,64
+9,"Three Floyds Brewing Company","Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord)","Russian Imperial Stout","15.00%",4.64,1445,99
+10,"Tree House Brewing Company","King JJJuliusss","American Double / Imperial IPA","8.40%",4.64,359,164
+11,"Maine Beer Company","Dinner","American Double / Imperial IPA","8.20%",4.63,1867,76
+12,"Tree House Brewing Company","Julius","American IPA","6.80%",4.62,3220,138
+13,"Founders Brewing Company","Founders CBS Imperial Stout","American Double / Imperial Stout","10.60%",4.62,4262,191
+14,"Tree House Brewing Company","Juice Machine","American Double / Imperial IPA","8.20%",4.61,504,14
+15,"Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 12 (XII)","Quadrupel (Quad)","10.20%",4.61,6171,12
+16,"Russian River Brewing Company","Pliny The Elder","American Double / Imperial IPA","8.00%",4.6,14122,102
+17,"Bottle Logic Brewing","Fundamental Observation","American Double / Imperial Stout","14.30%",4.6,696,35
+18,"Perennial Artisan Ales","Barrel-Aged Abraxas","American Double / Imperial Stout","11.00%",4.6,1256,24
+19,"Tree House Brewing Company","Very Green","American Double / Imperial IPA","8.60%",4.6,501,165
+20,"Toppling Goliath Brewing Company","King Sue","American Double / Imperial IPA","8.00%",4.57,1637,63
+21,"Tree House Brewing Company","JJJuliusss","American IPA","6.80%",4.57,332,145
+22,"The Alchemist","Focal Banger","American IPA","7.00%",4.56,2676,105
+23,"Goose Island Beer Company","Bourbon County Brand Coffee Stout","American Double / Imperial Stout","13.40%",4.56,6904,3
+24,"AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee (Bourbon Barrel Aged)","American Double / Imperial Stout","12.00%",4.56,616,160
+25,"Hill Farmstead Brewery","Abner","American Double / Imperial IPA","8.20%",4.56,2518,118
+26,"Founders Brewing Company","Founders KBS (Kentucky Breakfast Stout)","American Double / Imperial Stout","12.40%",4.56,12016,100
+27,"Hill Farmstead Brewery","Ann","Saison / Farmhouse Ale","6.50%",4.56,337,170
+28,"Lawson's Finest Liquids","Sip Of Sunshine","American Double / Imperial IPA","8.00%",4.55,4304,141
+29,"Funky Buddha Brewery","Morning Wood","American Porter","12.00%",4.55,610,185
+30,"Tree House Brewing Company","Green","American IPA","7.60%",4.55,2049,96
+31,"Funky Buddha Brewery","Last Buffalo In The Park","American Double / Imperial Stout","11.50%",4.55,385,144
+32,"Trillium Brewing Company","Double Dry Hopped Congress Street","American IPA","7.20%",4.54,898,17
+33,"Kern River Brewing Company","Citra","American Double / Imperial IPA","8.00%",4.54,1699,121
+34,"Lawson's Finest Liquids","Double Sunshine IPA","American Double / Imperial IPA","8.00%",4.54,2105,111
+35,"Tree House Brewing Company","Alter Ego","American IPA","6.80%",4.54,1596,79
+36,"Lawson's Finest Liquids","Triple Sunshine IPA","American Double / Imperial IPA","10.50%",4.53,571,145
+37,"Firestone Walker Brewing Company","Parabola","Russian Imperial Stout","14.00%",4.53,6246,4
+38,"Tree House Brewing Company","Doppelganger","American Double / Imperial IPA","8.20%",4.53,843,26
+39,"Three Floyds Brewing Company","Zombie Dust","American Pale Ale (APA)","6.20%",4.52,9817,8
+40,"Hill Farmstead Brewery","Society & Solitude #4","American Double / Imperial IPA","8.00%",4.52,1069,38
+41,"Hill Farmstead Brewery","Double Galaxy","American Double / Imperial IPA","8.00%",4.52,1297,70
+42,"Brothers Craft Brewing","Resolute - Coconut","American Double / Imperial Stout","13.50%",4.52,185,137
+43,"Brasserie Cantillon","Cantillon Fou' Foune","Lambic - Fruit","5.00%",4.52,2795,143
+44,"Trillium Brewing Company","Headroom","American Double / Imperial IPA","8.00%",4.51,417,158
+45,"Tree House Brewing Company","Haze","American Double / Imperial IPA","8.20%",4.51,1743,84
+46,"Aslin Beer Company","Master Of Karate","American Double / Imperial IPA","8.40%",4.51,169,144
+47,"Bissell Brothers Brewing Company","Swish","American Double / Imperial IPA","8.00%",4.5,972,36
+48,"Kane Brewing Company","Sunday Brunch","American Porter","9.20%",4.5,466,142
+49,"The Lost Abbey","Duck Duck Gooze","Gueuze","7.00%",4.5,1711,92
+50,"Cigar City Brewing","Hunahpu's Imperial Stout","American Double / Imperial Stout","11.00%",4.5,4004,168
+51,"Tree House Brewing Company","In Perpetuity","American IPA","6.70%",4.5,449,175
+52,"Side Project Brewing","Fuzzy","American Wild Ale","8.00%",4.5,691,166
+53,"Goose Island Beer Company","Bourbon County Brand Stout","American Double / Imperial Stout","13.80%",4.5,11960,69
+54,"Russian River Brewing Company","Supplication","American Wild Ale","7.00%",4.49,6203,7
+55,"Hill Farmstead Brewery","Double Citra","American Double / Imperial IPA","8.00%",4.49,1695,70
+56,"Trillium Brewing Company","Galaxy Dry Hopped Fort Point Pale Ale","American Pale Ale (APA)","6.60%",4.49,1406,46
+57,"Tree House Brewing Company","Double Shot","American Stout","7.60%",4.49,792,166
+58,"Toppling Goliath Brewing Company","Assassin Imperial Stout","American Double / Imperial Stout","12.00%",4.49,1057,185
+59,"Brasserie Cantillon","Cantillon Blåbær Lambik","Lambic - Fruit","5.00%",4.49,768,88
+60,"Bell's Brewery, Inc.","Bell's Black Note Stout","American Double / Imperial Stout","11.40%",4.49,4071,156
+61,"Toppling Goliath Brewing Company","PseudoSue","American Pale Ale (APA)","5.80%",4.49,3999,150
+62,"Brouwerij Drie Fonteinen","Drie Fonteinen Zenne Y Frontera","Lambic - Unblended","7.00%",4.49,123,109
+63,"Trillium Brewing Company","Double Dry Hopped Fort Point Pale Ale","American Pale Ale (APA)","6.60%",4.49,1120,23
+64,"Toppling Goliath Brewing Company","Double Dry Hopped PseudoSue (Citra)","American Pale Ale (APA)","5.80%",4.49,265,140
+65,"Jester King Brewery","Atrial Rubicite","American Wild Ale","5.80%",4.48,1672,42
+66,"Three Floyds Brewing Company","Bourbon Barrel Aged Dark Lord Imperial Stout","Russian Imperial Stout","15.00%",4.48,802,61
+67,"Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Fourth Dementia","Old Ale","13.50%",4.48,1884,125
+68,"Fremont Brewing Company","Bourbon Barrel Aged Abominable: Coffee And Cinnamon","American Strong Ale","14.00%",4.48,723,188
+69,"Voodoo Brewing Company","Grande Negro Voodoo Papi - Bourbon Barrel Aged","American Double / Imperial Stout","12.50%",4.48,235,129
+70,"Trillium Brewing Company","Cutting Tiles","American Double / Imperial IPA","8.50%",4.48,999,39
+71,"Deschutes Brewery","The Abyss","American Double / Imperial Stout","12.20%",4.48,6859,13
+72,"Trillium Brewing Company","Scaled Way Up","American Double / Imperial IPA","8.00%",4.47,330,137
+73,"Prairie Artisan Ales","BOMB!","American Double / Imperial Stout","13.00%",4.47,5640,177
+74,"Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 8 (VIII)","Dubbel","8.00%",4.47,2100,172
+75,"Ozark Beer Company","BDCS","American Double / Imperial Stout","10.20%",4.47,305,148
+76,"Hill Farmstead Brewery","Ephraim","American Double / Imperial IPA","10.00%",4.47,1008,81
+77,"Founders Brewing Company","Founders Breakfast Stout","American Double / Imperial Stout","8.30%",4.47,16218,103
+78,"Brasserie de Rochefort","Trappistes Rochefort 10","Quadrupel (Quad)","11.30%",4.47,9053,68
+79,"Goose Island Beer Company","Bourbon County Brand Barleywine Ale","English Barleywine","12.10%",4.47,4978,147
+80,"Firestone Walker Brewing Company","Parabajava","Russian Imperial Stout","14.00%",4.47,602,167
+81,"The Alchemist","Crusher","American Double / Imperial IPA","9.60%",4.47,1398,47
+82,"Dark Horse Brewing Company","Dark Horse Bourbon Barrel Aged Plead The 5th","Russian Imperial Stout","12.00%",4.46,3055,128
+83,"Boneyard Beer Company","Notorious Triple IPA","American Double / Imperial IPA","12.00%",4.46,717,184
+84,"Evil Twin Brewing","Evil Twin Double Barrel Jesus","American Double / Imperial Stout","12.00%",4.46,586,164
+85,"Brasserie Cantillon","Cantillon Lou Pepe - Kriek","Lambic - Fruit","5.00%",4.46,1687,115
+86,"Surly Brewing Company","Todd The Axe Man","American IPA","7.20%",4.46,2123,114
+87,"The Bruery","Black Tuesday","American Double / Imperial Stout","19.20%",4.46,3778,161
+88,"The Lost Abbey","Cable Car","American Wild Ale","7.00%",4.46,962,78
+89,"New England Brewing Company","Fuzzy Baby Ducks IPA","American IPA","6.20%",4.46,733,178
+90,"Russian River Brewing Company","Beatification","American Wild Ale","5.50%",4.46,2586,149
+91,"Funky Buddha Brewery","Wide Awake It's Morning","American Porter","10.00%",4.46,634,22
+92,"Mikkeller ApS","Beer Geek Vanilla Shake (Bourbon Edition)","American Double / Imperial Stout","13.00%",4.46,302,134
+93,"Hill Farmstead Brewery","Society & Solitude #5","American Double / Imperial IPA","8.10%",4.46,1359,44
+94,"Prairie Artisan Ales","Pirate Bomb!","American Double / Imperial Stout","14.00%",4.45,1890,63
+95,"Brouwerij Drie Fonteinen","Drie Fonteinen Oude Geuze Vintage","Gueuze","6.00%",4.45,700,30
+96,"Surly Brewing Company","Abrasive Ale","American Double / Imperial IPA","9.00%",4.45,4459,187
+97,"Fremont Brewing Company","The Rusty Nail","American Double / Imperial Stout","13.20%",4.45,166,112
+98,"Hill Farmstead Brewery","Susan","American IPA","6.20%",4.45,1757,59
+99,"Firestone Walker Brewing Company","§ucaba","English Barleywine","12.50%",4.45,4932,180
+100,"Oskar Blues Grill & Brew","Ten Fidy Bourbon Barrel Aged","Russian Imperial Stout","12.90%",4.45,786,28
+101,"Trillium Brewing Company","Fort Point Pale Ale","American Pale Ale (APA)","6.60%",4.45,1751,58
+102,"Hill Farmstead Brewery","Everett Porter","American Porter","7.50%",4.45,2566,119
+103,"Cigar City Brewing","Caffè Americano","American Double / Imperial Stout","11.00%",4.45,954,27
+104,"Toppling Goliath Brewing Company","Sosus","American Double / Imperial IPA","8.00%",4.45,1250,39
+105,"Brouwerij Drie Fonteinen","Drie Fonteinen Oude Geuze Golden Blend","Gueuze","7.50%",4.45,999,55
+106,"AleSmith Brewing Company","AleSmith Speedway Stout - Bourbon Barrel Aged","American Double / Imperial Stout","12.00%",4.45,2056,113
+107,"Trillium Brewing Company","Congress Street IPA","American IPA","7.20%",4.45,1828,74
+108,"Perrin Brewery","No Rules","American Porter","15.00%",4.44,956,60
+109,"Trillium Brewing Company","Mosaic Dry Hopped Fort Point","American Pale Ale (APA)","6.60%",4.44,920,18
+110,"Cigar City Brewing","Decoherence","American Double / Imperial Stout","12.90%",4.44,169,93
+111,"Hair of the Dog Brewing Company / Brewery and Tasting Room","Adam From The Wood","Old Ale","12.00%",4.44,940,50
+112,"Three Floyds Brewing Company","Permanent Funeral","American Double / Imperial IPA","10.50%",4.44,2780,106
+113,"Bell's Brewery, Inc.","Hopslam Ale","American Double / Imperial IPA","10.00%",4.44,12644,101
+114,"Prairie Artisan Ales","Barrel Aged Bomb!","American Double / Imperial Stout","11.20%",4.44,968,46
+115,"Fremont Brewing Company","Brew 1000 - Bourbon Barrel Aged","English Barleywine","13.10%",4.43,163,107
+116,"Firestone Walker Brewing Company","Stickee Monkee","Quadrupel (Quad)","11.60%",4.43,2299,89
+117,"Trillium Brewing Company","Upper Case","American Double / Imperial IPA","9.00%",4.43,775,15
+118,"Jackie O's Pub & Brewery","Bourbon Barrel Champion Ground","American Double / Imperial Stout","11.00%",4.43,413,169
+119,"de Garde Brewing","The Broken Truck","Gueuze","5.00%",4.43,140,80
+120,"Evil Twin Brewing","Imperial Biscotti Break Bourbon Barrel Aged","American Double / Imperial Stout","11.50%",4.43,1541,35
+121,"Stone Brewing","Imperial Russian Stout - Bourbon Barrel Aged","Russian Imperial Stout","13.50%",4.43,1137,49
+122,"de Garde Brewing","Nectarine Premiere","Saison / Farmhouse Ale","7.10%",4.43,189,90
+123,"Peg's Cantina & Brew Pub","Trademark Dispute: Hazelnut","American Double / Imperial Stout","Imperial",4.43,147,87
+124,"Trillium Brewing Company","Heavy Mettle","American Double / Imperial IPA","9.30%",4.43,771,171
+125,"Anchorage Brewing Company","A Deal With The Devil","American Barleywine","17.30%",4.43,949,31
+126,"Fremont Brewing Company","Bourbon Barrel Aged Dark Star Oatmeal Stout","Oatmeal Stout","14.50%",4.42,417,152
+127,"Funky Buddha Brewery","Maple Bacon Coffee Porter","American Porter","6.40%",4.42,1697,82
+128,"Heist Brewery","Citraquench'l","American IPA","6.70%",4.42,93,91
+129,"Funky Buddha Brewery","Last Snow","American Porter","6.40%",4.42,1683,79
+130,"J. Wakefield Brewing","Miami Madness","Berliner Weissbier","3.50%",4.42,281,127
+131,"New England Brewing Company","Coriolis","American Double / Imperial IPA","8.20%",4.42,546,159
+132,"Brouwerij St. Bernardus NV","St. Bernardus Abt 12","Quadrupel (Quad)","10.00%",4.42,9318,67
+133,"Brasserie Cantillon","Cantillon Lou Pepe - Framboise","Lambic - Fruit","5.00%",4.42,1248,97
+134,"FiftyFifty Brewing Company","Imperial Eclipse Stout - Elijah Craig (12 Year)","American Double / Imperial Stout","11.90%",4.42,1847,97
+135,"Brouwerij Drie Fonteinen","Drie Fonteinen Framboos","Lambic - Fruit","5.00%",4.42,639,19
+136,"Peg's Cantina & Brew Pub","Peg's G.O.O.D. RareR D.O.S.","American Double / Imperial Stout","10.00%",4.42,730,19
+137,"Brasserie Cantillon","Cantillon Saint Lamvinus","Lambic - Fruit","5.00%",4.42,2009,135
+138,"Columbus Brewing Company","Columbus Bodhi DIPA","American Double / Imperial IPA","8.50%",4.42,1413,60
+139,"Hill Farmstead Brewery","Juicy","Saison / Farmhouse Ale","7.40%",4.41,460,169
+140,"Grimm Artisanal Ales","Afterimage","American Double / Imperial IPA","8.00%",4.41,426,169
+141,"Russian River Brewing Company","Temptation","American Wild Ale","7.50%",4.41,3621,1
+142,"Prairie Artisan Ales","Prairie Apple Brandy Noir","American Double / Imperial Stout","12.00%",4.41,1401,57
+143,"Surly Brewing Company","Darkness","Russian Imperial Stout","10.30%",4.41,3705,179
+144,"Fat Head's Brewery & Saloon","Hop JuJu Imperial IPA","American Double / Imperial IPA","9.00%",4.41,1970,86
+145,"The Bruery","Chocolate Rain","American Double / Imperial Stout","18.50%",4.41,2598,110
+146,"Tree House Brewing Company","Triple Shot","American Double / Imperial Stout","9.00%",4.41,254,104
+147,"Alpine Beer Company","Bad Boy","American Double / Imperial IPA","9.00%",4.41,549,33
+148,"Perennial Artisan Ales","Abraxas","American Double / Imperial Stout","10.00%",4.41,2353,98
+149,"Jackie O's Pub & Brewery","Oro Negro","American Double / Imperial Stout","10.50%",4.41,626,18
+150,"J. Wakefield Brewing","Dragon Fruit Passion Fruit Berliner","Berliner Weissbier","3.50%",4.41,287,129
+151,"Sante Adairius Rustic Ales","Saison Bernice","Saison / Farmhouse Ale","6.50%",4.41,830,170
+152,"Brouwerij Rodenbach N.V.","Rodenbach Caractère Rouge","Flanders Red Ale","7.00%",4.41,1355,62
+153,"Fremont Brewing Company","Bourbon Barrel Aged Dark Star: Coffee Edition","Oatmeal Stout","14.50%",4.41,536,152
+154,"Peg's Cantina & Brew Pub","Rare Scooop","American Double / Imperial Stout","Imperial",4.41,101,73
+155,"Pelican Pub & Brewery","Mother Of All Storms","English Barleywine","14.00%",4.41,1906,133
+156,"Aslin Beer Company","Orange Starfish","American IPA","5.70%",4.4,129,93
+157,"Russian River Brewing Company","Consecration","American Wild Ale","10.00%",4.4,5183,2
+158,"Lagunitas Brewing Company","Born Yesterday Pale Ale","American Pale Ale (APA)","7.00%",4.4,2198,126
+159,"Fiddlehead Brewing Company","Second Fiddle","American Double / Imperial IPA","8.20%",4.4,1678,58
+160,"Trillium Brewing Company","Double Dry Hopped Sleeper Street","American IPA","7.20%",4.4,674,167
+161,"Peg's Cantina & Brew Pub","Trademark Dispute: Pallet 1","American Double / Imperial Stout","10.40%",4.4,273,136
+162,"Tree House Brewing Company","Curiosity Twenty Seven","American Double / Imperial IPA","8.00%",4.4,109,75
+163,"Sante Adairius Rustic Ales","Westly","American Wild Ale","8.50%",4.4,229,104
+164,"Jester King Brewery","Montmorency Vs Balaton","American Wild Ale","6.70%",4.4,684,148
+165,"Willoughby Brewing","Nut Smasher","American Double / Imperial Stout","11.00%",4.4,291,153
+166,"Boston Beer Company (Samuel Adams)","Samuel Adams Utopias","American Strong Ale","29.00%",4.4,2470,146
+167,"SingleCut Beersmiths","Softly Spoken Magic Spells","American Double / Imperial IPA","8.60%",4.4,549,30
+168,"Foundation Brewing Company","Epiphany","American Double / Imperial IPA","8.00%",4.4,838,30
+169,"Bayerische Staatsbrauerei Weihenstephan","Weihenstephaner Hefeweissbier","Hefeweizen","5.40%",4.4,8127,66
+170,"Three Floyds Brewing Company","Dreadnaught IPA","American Double / Imperial IPA","9.50%",4.4,5938,10
+171,"Sante Adairius Rustic Ales","West Ashley","American Wild Ale","7.30%",4.4,937,181
+172,"AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee","American Double / Imperial Stout","12.00%",4.4,1671,40
+173,"Trillium Brewing Company","Dialed In (w/ Sauvignon Blanc Juice)","American Double / Imperial IPA","8.50%",4.39,425,155
+174,"Hair of the Dog Brewing Company / Brewery and Tasting Room","Matt","American Strong Ale","11.50%",4.39,829,85
+175,"Kane Brewing Company","Mexican Brunch","American Porter","9.20%",4.39,182,87
+176,"Trillium Brewing Company","Vicinity","American Double / Imperial IPA","8.00%",4.39,1273,48
+177,"Bottle Logic Brewing","Ground State - 2nd Anniversary Beer","American Double / Imperial Stout","12.50%",4.39,365,153
+178,"Hill Farmstead Brewery","Society & Solitude #6","American Double / Imperial IPA","8.10%",4.39,668,164
+179,"Trillium Brewing Company","Double Dry Hopped Scaled","American IPA","7.00%",4.39,560,164
+180,"Three Floyds Brewing Company","French Vanilla Militia","Russian Imperial Stout","Imperial",4.39,111,80
+181,"Alpine Beer Company","Great","American Barleywine","14.00%",4.39,649,43
+182,"Cascade Brewing / Raccoon Lodge & Brewpub","Cascade Sang Noir","American Wild Ale","9.50%",4.39,1608,71
+183,"Avery Brewing Company","Tweak","American Double / Imperial Stout","17.50%",4.39,2116,94
+184,"Brasserie Dieu du Ciel!","Péché Mortel","American Double / Imperial Stout","9.50%",4.39,5009,11
+185,"Parish Brewing Company","Ghost In The Machine","American Double / Imperial IPA","8.00%",4.39,532,178
+186,"Stone Brewing","Stone Enjoy By IPA","American Double / Imperial IPA","9.40%",4.39,10528,6
+187,"Trillium Brewing Company","Scaled Up","American Double / Imperial IPA","8.00%",4.38,604,176
+188,"Side Project Brewing","Saison Du Fermier","Saison / Farmhouse Ale","7.00%",4.38,611,130
+189,"Pipeworks Brewing Company","Spotted Puffer","American Double / Imperial IPA","9.50%",4.38,294,130
+190,"Trillium Brewing Company","Double Dry Hopped Melcher Street","American IPA","7.30%",4.38,733,174
+191,"Tree House Brewing Company","Doubleganger","American Double / Imperial IPA","8.20%",4.38,56,45
+192,"Toppling Goliath Brewing Company","XHOPS (Gold Label)","American Pale Ale (APA)","5.30%",4.38,384,164
+193,"Hill Farmstead Brewery","Edward","American Pale Ale (APA)","5.20%",4.38,2561,114
+194,"Hoof Hearted Brewing","Dragonsaddle","American Double / Imperial IPA","11.20%",4.38,195,123
+195,"The Lone Pint Brewery","Yellow Rose","American IPA","6.80%",4.38,1581,72
+196,"Noble Ale Works","Citra Showers","American Double / Imperial IPA","8.80%",4.38,478,163
+197,"Bottle Logic Brewing","Leche Borracho","American Double / Imperial Stout","11.00%",4.38,252,136
+198,"Pipeworks Brewing Company","Sure Bet","American Double / Imperial IPA","9.50%",4.38,509,157
+199,"Ballast Point Brewing Company","Sculpin IPA","American IPA","7.00%",4.38,13560,65
+200,"4 Hands Brewing Company","Madagascar","Milk / Sweet Stout","9.30%",4.38,622,160
+201,"Alpine Beer Company","Exponential Hoppiness","American Double / Imperial IPA","11.00%",4.37,1297,122
+202,"Kern River Brewing Company","Winter Ale (5th Anniversary Ale)","American Double / Imperial IPA","8.00%",4.37,327,189
+203,"Logsdon Farmhouse Ales","Peche 'n Brett","Saison / Farmhouse Ale","10.00%",4.37,1247,51
+204,"Alpine Beer Company","Nelson","American IPA","7.00%",4.37,4033,173
+205,"Hill Farmstead Brewery","Aaron","English Barleywine","BreweryEnglish",4.37,322,104
+206,"Hill Farmstead Brewery","Damon (Bourbon Barrel Aged)","Russian Imperial Stout","10.50%",4.37,660,183
+207,"Brasserie Dieu du Ciel!","Péché Mortel En Fût De Bourbon Américain","American Double / Imperial Stout","9.50%",4.37,442,182
+208,"Trillium Brewing Company","Dusk Trill Dawn","American Double / Imperial Stout","11.50%",4.37,346,151
+209,"Hangar 24 Brewery","Pugachev Royale","Russian Imperial Stout","14.80%",4.37,178,87
+210,"Lift Bridge Brewery","Barrel-Aged Silhouette","Russian Imperial Stout","10.00%",4.37,343,124
+211,"Jackie O's Pub & Brewery","Bourbon Barrel Oro Negro","American Double / Imperial Stout","11.00%",4.37,238,116
+212,"Other Half Brewing Company","All Green Everything","American Double / Imperial IPA","10.50%",4.37,953,26
+213,"Peg's Cantina & Brew Pub","Trademark Dispute: &+","American Double / Imperial Stout","10.50%",4.37,226,112
+214,"Kuhnhenn Brewing Company","Kuhnhenn Raspberry Eisbock","Eisbock","15.50%",4.37,1229,132
+215,"AleSmith Brewing Company","AleSmith Speedway Stout","American Double / Imperial Stout","12.00%",4.37,6618,9
+216,"Other Half Brewing Company","Mosaic IPA","American IPA","7.20%",4.37,351,123
+217,"The Bruery","Grey Monday","American Double / Imperial Stout","19.50%",4.36,1670,37
+218,"Brouwerij Drie Fonteinen","Drie Fonteinen Hommage","Lambic - Fruit","6.00%",4.36,840,54
+219,"Side Project Brewing","Derivation #6 (Cinnamon, Cocoa Nibs And Ugandan Vanilla)","American Double / Imperial Stout","15.00%",4.36,40,34
+220,"The Lost Abbey","Box Set Track #10 - Bat Out Of Hell","American Double / Imperial Stout","13.50%",4.36,980,35
+221,"Societe Brewing Company","The Pupil","American IPA","7.80%",4.36,873,185
+222,"Grimm Artisanal Ales","Tesseract","American Double / Imperial IPA","8.00%",4.36,467,169
+223,"Westbrook Brewing Company","Mexican Cake","American Double / Imperial Stout","10.50%",4.36,2633,108
+224,"Grimm Artisanal Ales","Lumen","American IPA","6.40%",4.36,251,124
+225,"Brasserie Cantillon","Cantillon Lou Pepe - Gueuze","Gueuze","5.00%",4.36,1102,70
+226,"Avery Brewing Company","Callipygian","American Double / Imperial Stout","17.10%",4.36,368,166
+227,"Buxton Brewery","Buxton / Omnipollo Yellow Belly","American Double / Imperial Stout","11.00%",4.36,301,154
+228,"Grimm Artisanal Ales","Lambo Door","American Double / Imperial IPA","8.00%",4.36,487,190
+229,"Aslin Beer Company","Mind The Hop","American Double / Imperial IPA","9.50%",4.36,86,90
+230,"Clown Shoes","Breakfast Exorcism","American Double / Imperial Stout","11.00%",4.36,320,144
+231,"Avery Brewing Company","Uncle Jacob's Stout","American Double / Imperial Stout","17.10%",4.35,2556,120
+232,"Fremont Brewing Company","Bourbon Abominable Winter Ale","American Strong Ale","14.00%",4.35,1026,52
+233,"Jackie O's Pub & Brewery","Bourbon Barrel Black Maple","American Porter","11.00%",4.35,885,184
+234,"Stone Brewing","Stone Enjoy By Unfiltered IPA","American Double / Imperial IPA","9.40%",4.35,1256,83
+235,"New Glarus Brewing Company","Wisconsin Belgian Red","Fruit / Vegetable Beer","4.00%",4.35,3502,192
+236,"Grimm Artisanal Ales","Magnetic Compass","American IPA","6.40%",4.35,209,136
+237,"Lagunitas Brewing Company","High West-ified Imperial Coffee Stout","American Double / Imperial Stout","12.20%",4.35,1451,77
+238,"Hill Farmstead Brewery","Genealogy Of Morals (Bourbon Barrel Aged)","American Double / Imperial Stout","10.70%",4.35,509,139
+239,"New Glarus Brewing Company","Serendipity","Fruit / Vegetable Beer","4.00%",4.35,2789,95
+240,"Boneyard Beer Company","Hop Venom Double IPA","American Double / Imperial IPA","8.90%",4.35,903,25
+241,"Peg's Cantina & Brew Pub","Trademark Dispute: Nooner 10","American Double / Imperial Stout","12.00%",4.35,221,109
+242,"New England Brewing Company","Locust Reign","American Double / Imperial IPA","8.50%",4.35,294,117
+243,"Live Oak Brewing Company","Live Oak HefeWeizen","Hefeweizen","5.20%",4.35,1572,131
+244,"Ballast Point Brewing Company","Victory At Sea Coffee Vanilla Imperial Porter","American Porter","10.00%",4.35,6697,5
+245,"The Bruery","Mocha Wednesday","American Double / Imperial Stout","19.20%",4.35,1249,21
+246,"Hill Farmstead Brewery","Birth Of Tragedy","American Porter","9.00%",4.35,1140,53
+247,"Hill Farmstead Brewery","What Is Enlightenment?","American Pale Ale (APA)","5.40%",4.34,874,20
+248,"La Cumbre Brewing Company","Project Dank","American IPA","7.50%",4.34,791,16
+249,"Minneapolis Town Hall Brewery","Masala Mama India Pale Ale","American IPA","6.00%",4.34,1359,162
+250,"Fiddlehead Brewing Company","Mastermind","American Double / Imperial IPA","8.10%",4.34,1319,41

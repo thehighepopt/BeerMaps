@@ -53,6 +53,25 @@ abv[,2] <- sapply(abv[,1],pars)
 abv$Rank <- seq(1,250, by =1)
 colnames(abv) <- c("Mush", "ABV", "Rank")
 
+###Split apart ABV
+# ABVSplit <- data.frame(String=character(),ABV=character())
+#
+# for (i in abv) {
+#       if (str_count(i,"/") == 2){
+#             String <- i ##word(i, 1, 2, " / ")
+#             ABV <- word(i, 3, -1, " / ")
+#       } else if ((str_count(i,"/") == 1)&(str_detect(i,'/ [:digit:]') == TRUE)){
+#             String <- i ##word(i, 1, 1, " / ")
+#             ABV <- word(i, 2, -1, " / ")
+#       } else {
+#             String <- i
+#             ABV <- NA
+#       }
+#       df2 <- data.frame(String,ABV)
+#       ABVSplit <- rbind(ABVSplit,df2)
+# }
+
+
 Merge3 <- merge(Merge2,abv, by = "Rank")
 Top250 <- Merge3[c(1,2,3,4,9,6,5,7)]
 rm(Merge1,o,Merge2,Merge3,h,t,u,BBS,BRR,RBH,abv,pars,q)
@@ -62,8 +81,8 @@ rm(Merge1,o,Merge2,Merge3,h,t,u,BBS,BRR,RBH,abv,pars,q)
 for(i in c(1,7:ncol(Top250))) {Top250[,i] <- as.numeric(Top250[,i])}
 Top250[,6] <- as.numeric(as.character(Top250[,6]))
 ###This will fix non-American letters back to the original
- Top250[,2] <- as.character(Top250[,2])
- Top250[,3] <- as.character(Top250[,3])
+# Top250[,2] <- as.character(Top250[,2])
+# Top250[,3] <- as.character(Top250[,3])
 
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
 Top250[,3] <- trim(Top250[,3])
@@ -92,52 +111,36 @@ rownames(Top250) <- 1:250
 currentDate <- Sys.Date()
 csvFileName <- paste("Top 250 Beers_Addr_",currentDate,".csv",sep="")
 write.csv(Top250, file=csvFileName, row.names = FALSE)
-rm(csvFileName,currentDate,trim,top250web)
+rm(csvFileName,currentDate,addr,trim,top250web)
 
-##################Test for a new Brewery
-
-nas <- nrow(subset(Top250, Top250[,13]=="#N/A"))
-if (nas > 0) {
-    print("You're Missing a Brewery")
-    }
-
-###################Test for changes, if true, compile all beers ever
+###################Test for changes
 setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps/top250")
+top1 <- read.csv("./Top 250 Beers_2017-02-01.csv")
+top1 <- read.csv("./Top 250 Beers_2017-01-31.csv")
 
-n <- as.data.frame(substr(list.files(),15,30))
 
-lastrun <- paste("./Top 250 Beers_",(n[nrow(n)-1,1]),sep="")
-top1 <- read.csv(lastrun)
-top3 <- data.frame(top1[order(top1[,3]),3],Top250[order(Top250[,3]),3])
 
-if (identical(top3[,1],top3[,2]) == FALSE) {
-    ##Compile all lists in folder to one with unique beers left
-    history <- as.data.frame(matrix(NA,1,8))
-    colnames(history) <- c("Rank","Brewery","Beer","Style","ABV","Rating","Ratings","Reviews")
 
-    b <- nrow(n)
+##Compile all lists in folder to one - some repeats will happen
+setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps/top250")
+history <- as.data.frame(matrix(NA,1,8))
+  colnames(history) <- c("Rank","Brewery","Beer","Style","ABV","Rating","Ratings","Reviews")
 
-    for (i in 1:b) {
-        date <- n[i,]
-        csvFileName <- paste("Top 250 Beers_",date,sep="")
-        a <- read.csv(csvFileName)
-        history <- rbind(history,a)
-    }
+  n <- as.data.frame(list.files())
+  n[,2] <- substr(n[,1],15,30)
+  b <- nrow(n)
 
-    alltops <- unique( history[2:nrow(history),2:3] )
-    alltops <- alltops[order(alltops[,1]),]
-    alltops <- merge(alltops,addr,by = "Brewery", all.x = TRUE)
-    setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
-    write.csv(alltops,"All Top 250 Beers.csv")
-}
-rm(n,history,alltops,i,lastrun,addr,top3,top1,nas)
+  for (i in 1:b) {
+    date <- n[i,2]
+    csvFileName <- paste("Top 250 Beers_",date,sep="")
+    a <- read.csv(csvFileName)
+    history <- rbind(history,a)
+  }
 
-########
-##When it finally works, save to G Drive
-#top250put <- gs_new("All Top 250 Beers", input = Top250, trim = TRUE)
-#library("googlesheets")
-#suppressPackageStartupMessages(library("dplyr"))
-
+  alltops <- unique( history[2:nrow(history),2:3] )
+  alltops <- alltops[order(alltops[,1]),]
+  setwd("C:/Users/Stephen.P.Duffy/Documents/GitHub/BeerMaps")
+  write.csv(alltops,"All Top 250 Beers.csv")
 
 
 # auth <- getGoogleAuth("thehighepopt@gmail.com", "Ferm1lab23f", service = "wise")
