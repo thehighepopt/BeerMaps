@@ -1,110 +1,223 @@
-Brewery,Street,Street2,City,State,Zip
-4 Hands Brewing Company,1220 S 8th St,,St. Louis,MO,63104
-AleSmith Brewing Company,9990 AleSmith Ct,,San Diego,CA,92126
-Alpine Beer Company,2363 Alpine Blvd,,Alpine,CA,91901
-Anchorage Brewing Company,148 West 91st Ave?,,Anchorage,AK,99515
-Aslin Beer Company,1330 N Forest St,,Bellingham,WA,98225
-Avery Brewing Company,4910 Nautilus Ct,,Boulder,CO,80301
-Ballast Point Brewing Company,9045 Carroll Way,,San Diego,CA,92121
-Bayerische Staatsbrauerei Weihenstephan,Alte Akademie 2,,Freising,Germany,85354
-"Bell's Brewery, Inc.",355 E. KALAMAZOO?AVE.,,Kalamazoo,MI,49007
-Bissell Brothers Brewing Company,4 THOMPSONS PT,STE 108-109,Portland,ME,4102
-Boneyard Beer Company,"37 NW Lake Pl, Suite B",,Bend,OR,97701
-Boston Beer Company (Samuel Adams),30 Germania St,,Jamaica Plain,MA,2130
-Bottle Logic Brewing,1072 N Armando St,,Anaheim,CA,92806
-Brasserie Cantillon,Rue Gheude 56,,Brussels,Belgium,1070
-Brasserie de Rochefort,Rue de l'Abbaye 8,,Rochefort,Belgium,5580
-Brasserie Dieu du Ciel!,29 Av Laurier O,,Montreal,QC,H2T 2N2
-Brothers Craft Brewing,800 N Main St,,Harrisonburg,VA,22802
-Brouwerij Drie Fonteinen,3 Herman Teirlinckplein,,Beersel,Belgium,1650
-Brouwerij Rodenbach N.V.,Spanjestraat 133-141,,Roeselare,Belgium,8800
-Brouwerij St. Bernardus NV,Trappistenweg 23,,Watou,Belgium,8978
-Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Donkerstraat 12,,Westvleteren,Belgium,8640
-Buxton Brewery,Staden Business Park,,Buxton,UK,SK17 9RZ
-Cascade Brewing / Raccoon Lodge & Brewpub,7424 SW Beaverton-Hillsdale Hwy,,Portland,OR,97225
-Cigar City Brewing,3924 W Spruce St,,Tampa,FL,33607
-Clown Shoes,23 Hayward St.,,Ipswich,MA,1938
-Columbus Brewing Company,2555 Harrison Rd,,Columbus,OH,43204
-Dark Horse Brewing Company,511 South Kalamazoo Street,,Marshall,MI,49068
-de Garde Brewing,6000 Blimp Blvd,,Tillamook,OR,97141
-Deschutes Brewery,901 SW Simpson Ave,,Bend,OR,97702
-Evil Twin Brewing,446 Kent Ave,Apt 14A,Brooklyn,NY,11249
-Fat Head's Brewery & Saloon,24581 Lorain Rd.,,North Olmstead,OH,44070
-Fiddlehead Brewing Company,6305 Shelburne Rd,,Shelburne,VT,5482
-FiftyFifty Brewing Company,11197 Brockway Rd,,Truckee,CA,96161
-Firestone Walker Brewing Company,1400 Ramada Drive,,Paso Robles,CA,93446
-Foundation Brewing Company,1 Industrial Way?,,Portland,ME,4103
-Founders Brewing Company,235 Grandville Ave SW,,Grand Rapids,MI,49503
-Fremont Brewing Company,3409 Woodland Park Avenue North,,Seattle,WA,98103
-Funky Buddha Brewery,1201 NE 38th St,,Oakland Park,FL,33334
-Goose Island Beer Company,1800 W Fulton St,,Chicago,IL,60612
-Grimm Artisanal Ales,PO Box 150472,,Brooklyn,NY,11215
-Hair of the Dog Brewing Company / Brewery and Tasting Room,61 SE Yamhill St,,Portland,OR,97214
-Hangar 24 Brewery,1710 Sessums Drive,,Redlands,CA,92374
-Heist Brewery,2901 N Davidson St,,Charlotte,NC,28205
-Hill Farmstead Brewery,403 Hill Rd,,Greensboro Bend,VT,5842
-J. Wakefield Brewing,120 NW 24th St,,Miami,FL,33127
-Jackie O's Pub & Brewery,24 W Union St,,Athens,OH,45701
-Jester King Brewery,13005 Fitzhugh Road,Bld. B,Austin,TX,78736
-Kane Brewing Company,1750 Bloomsbury Ave,,Ocean,NJ,7712
-Kern River Brewing Company,13415 Sierra Way,,Kernville,CA,93238
-Kuhnhenn Brewing Company,5919 Chicago Rd,,Warren,MI,48092
-La Cumbre Brewing Company,3313 Girard Blvd NE,,Albuquerque,NM,87107
-Lagunitas Brewing Company,1280 N McDowell Blvd,,Petaluma,CA,94954
-Lawson's Finest Liquids,Not Open to Public,,Warren,VT,5674
-Lift Bridge Brewery,1900 Tower Dr W,,Stillwater,MN,55082
-Live Oak Brewing Company,1615 Crozier Ln,,Del Valle,TX,78617
-Logsdon Farmhouse Ales,4785 Booth Hill Rd,,Hood River,OR,97031
-Maine Beer Company,525 US Route 1,,Freeport,ME,4032
-Midnight Sun Brewing Company,8111 Dimond Hook Dr,,Anchorage,AK,99507
-Minneapolis Town Hall Brewery,1430 Washington Ave S,,Minneapolis,MN,55454
-Modern Times Beer,3725 Greenwood St,,San Diego,CA,92110
-New England Brewing Company,175 Amity Rd,,Woodbridge,CT,6525
-New Glarus Brewing Company,2400 Hwy 69,,New Glarus,WA,53574
-Noble Ale Works,1621 S Sinclair St,,Anaheim,CA,92806
-Olde Hickory Brewery,2 Third Street SW,,Hickory,NC,28602
-Other Half Brewing Company,195 Centre St,,Brooklyn,NY,11231
-Ozark Beer Company,1700 S 1st St,,Rogers,AR,72756
-Parish Brewing Company,229 Jared Dr,,Broussard,LA,70518
-Peg's Cantina & Brew Pub,Closed,,,,
-Pelican Pub & Brewery,33180 Cape Kiwanda Dr.,,Pacific City,OR,97135
-Perennial Artisan Ales,8125 Michigan Ave,,Saint Louis,MI,63111
-Perrin Brewery,5910 Comstock Park Dr NW,,Comstock Park,MI,49321
-Pipeworks Brewing Company,3912 W McLean Ave,,Chicago,IL,60647
-Prairie Artisan Ales,1803 S 49th West Ave,,Tulsa,OK,74107
-Russian River Brewing Company,725 4th St,,Santa Rosa,CA,95404
-Sante Adairius Rustic Ales,103 Kennedy Dr,,Capitola,CA,95010
-Side Project Brewing,7373 Marietta Ave,,Maplewood,MI,63143
-SingleCut Beersmiths,19-33 37th St,,Queens,NY,11105
-Societe Brewing Company,8262 Clairemont Mesa Blvd,,San Diego,CA,92111
-Stone Brewing,1999 Citracado Parkway,,Escondido,CA,92029
-Surly Brewing Company,4811 Dusharme Dr,,Brooklyn Center,MN,55429
-The Alchemist,35 Crossroad,,Waterbury,VT,5676
-The Bruery,715 Dunn Way,,Placentia,CA,92870
-The Lone Pint Brewery,507 Commerce St,,Magnolia,TX,77355
-The Lost Abbey,155 Mata Way #104,,San Marcos,CA,92069
-Three Floyds Brewing Company,9750 Indiana Pkwy,,Munster,IN,46321
-Toppling Goliath Brewing Company,310 College Dr,,Decorah,IO,52101
-Tree House Brewing Company,160 E Hill Rd,,Monson,MA,1057
-Trillium Brewing Company,369 Congress St,,Boston,MA,2210
-Voodoo Brewing Company,215 Arch St,,Meadville,PA,16335
-Westbrook Brewing Company,510 Ridge Rd,,Mount Pleasant,NC,29464
-Willoughby Brewing,4057 Erie Street,,Willoughby,OH,44094
-North Coast Brewing Company,455 N Main St,,Fort Bragg,CA,95437
-Against The Grain Brewery and Smokehouse,401 East Main St.,,Louisville,KY,40202
-Asheville Brewing Company,77 Coxe Avenue,,Asheville,NC,28804
-Beachwood BBQ and Brewing,210 E. Third St.,,Long Beach,CA,90802
-Brewery Ommegang,656 County Hwy 33,,Cooperstown,NY,13326
-Church Brew Works,3525 Liberty Avenue,,Pittsburgh,PA,15201
-Dogfish Head Craft Brewery,6 Village Center Boulevard,,Milton,DE,19968
-Maui Brewing Co - Brewpub,4405 Honoapiilani Highway,,Lahaina,HI,96761
-Monhegan Brewing Company,1 Boody Lane,,Monhegan,ME,4852
-New Belgium Brewing Inc.,500 Linden Street,,Fort Collins,CO,80524
-Sierra Nevada Brewing Company,1075 E. 20th Street,,Chico,CA,95928
-Tired Hands Brewing Company,16 Ardmore Ave,,Ardmore,PA,19003
-Yuengling Brewery,501 Mahantongo St,,Pottsville,PA,17901
-Mikkeller ApS,"Humletorvet 27, 3 sal",,Copenhagen,Denmark,
-Oskar Blues Grill & Brew,303 Main St,,Lyons,CO,80540
-Hoof Hearted Brewing,300 County Rd 26,,Marengo,CO,43334
-Hardywood Park Craft Brewery,2410 Ownby Ln,,Richmond,VA,23220
-Haymarket Pub & Brewery,737 W. Randolph,,Chicago,IL,60661
+Brewery,Street,Street2,City,State,Zip,Latitude,Longitude
+3 Floyds Brewing Company,9750 Indiana Pkwy,,Munster,IN,46321,41.5353502,-87.5165134
+4 Hands Brewing Company,1220 S 8th St,,St. Louis,MO,63104,38.61512727,-90.19651874
+Aeronaut Brewing Company,14 Tyler St,,Somerville,MA,2143,42.3820176,-71.1085094
+Against The Grain Brewery and Smokehouse,401 East Main St.,,Louisville,KY,40202,39.4480214,-123.8059045
+Alaskan Brewing Company,5429 Shaune Dr,,Juneau,AK,99801,58.3570506,-134.4893335
+AleSmith Brewing Company,9990 AleSmith Ct,,San Diego,CA,92126,32.888186,-117.1498484
+Allagash Brewing Company,50 Industrial Way,,Portland,ME,4103,43.7031477,-70.3198819
+Almanac Beer Company,2704 24th St,,San Francisco,CA,94110,37.7601367,-122.4057696
+Alpine Beer Company,2363 Alpine Blvd,,Alpine,CA,91901,38.61512727,-90.19651874
+American Solera,1801 S 49th W Ave,,Tulsa,OK,74107,36.1375705,-96.0487527
+Anchorage Brewing Company,148 West 91st Ave?,,Anchorage,AK,99515,32.834679,-116.762684
+Angry Chair Brewing,6401 N Florida Ave,,Tampa,FL,33604,28.0051338,-82.4614774
+Asheville Brewing Company,77 Coxe Avenue,,Asheville,NC,28804,35.596467,-82.5616116
+Aslin Beer Company,1330 N Forest St,,Bellingham,WA,98225,61.1385354,-149.8893299
+August Schell Brewing Company,1860 Schell's Rd,,New Ulm,MN,56073,44.2896307,-94.4511625
+Avery Brewing Company,4910 Nautilus Ct,,Boulder,CO,80301,48.74801531,-122.4754509
+Ballast Point Brewing Company,9045 Carroll Way,,San Diego,CA,92121,32.88798083,-117.1587251
+Barrel House Z (BHZ),95 Woodrock Rd,,East Weymouth,MA,2189,42.192475,-70.9300517
+Barrier Brewing Company,3001 New St ,A2,Oceanside,NY,11572,40.6392062,-73.6583057
+Baxter Brewing Company,130 Mill St,,Lewiston,ME,4240,44.0952036,-70.2213117
+Bayerische Staatsbrauerei Weihenstephan,Alte Akademie 2,,Freising,Germany,85354,32.88798083,-117.1587251
+Beachwood BBQ and Brewing,210 E. Third St.,,Long Beach,CA,90802,33.7699576,-118.1930917
+Bearded Iris Brewing,101 Van Buren St,,Nashville,TN,37208,36.1813046,-86.786279
+Belching Beaver Brewery,980 Park Center Dr,,Vista,CA,92081,33.1450269,-117.2311713
+"Bell's Brewery, Inc.",355 E. KALAMAZOO?AVE.,,Kalamazoo,MI,49007,42.2949875,-85.578566
+Bissell Brothers Brewing Company,4 THOMPSONS PT,STE 108-109,Portland,ME,4102,43.65408501,-70.28896092
+Blackberry Farm Brewery,1471 West Millers Cove Rd,,Walland,TN,37886,35.6861131,-83.867807
+Boneyard Beer Company,"37 NW Lake Pl, Suite B",,Bend,OR,97701,43.65408501,-70.28896092
+Boston Beer Company (Samuel Adams),30 Germania St,,Jamaica Plain,MA,2130,42.31396936,-71.10232922
+Bottle Logic Brewing,1072 N Armando St,,Anaheim,CA,92806,33.84913581,-117.8598915
+Brasserie Cantillon,Rue Gheude 56,,Brussels,Belgium,1070,33.84913581,-117.8598915
+Brasserie de Rochefort,Rue de l'Abbaye 8,,Rochefort,Belgium,5580,"50.1782881,",5.2174297
+Brasserie Dieu du Ciel!,29 Av Laurier O,,Montreal,QC,H2T 2N2,"45.5227334,",-73.5956284
+Brasserie Dupont sprl,1 Rue Saint-Ambroise,,77000 Melun, France,0,48.3153362,0.008917
+Brew Gentlemen,512 Braddock Ave,,Braddock,PA,15104,40.4042259,-79.8723432
+Brewery Ommegang,656 County Hwy 33,,Cooperstown,NY,13326,38.2555784,-85.7440385
+Brothers Craft Brewing,800 N Main St,,Harrisonburg,VA,22802,38.45757,-78.861099
+Brouwerij 3 Fonteinen,3 Herman Teirlinckplein,,Beersel,Belgium,1650,"50.7648754,",4.2734747
+Brouwerij Drie Fonteinen,3 Herman Teirlinckplein,,Beersel,Belgium,1650,"50.7648754,",4.2734747
+Brouwerij Rodenbach N.V.,Spanjestraat 133-141,,Roeselare,Belgium,8800,"50.9460394,",3.1348165
+Brouwerij St. Bernardus NV,Trappistenweg 23,,Watou,Belgium,8978,50.8419221,2.638534421
+Brouwerij Three Fonteinen,3 Herman Teirlinckplein,,Beersel,Belgium,1650,"50.7648754,",4.2734747
+Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Donkerstraat 12,,Westvleteren,Belgium,8640,45.4870915,-122.7429931
+Bruery Terreux,1174 N Grove St,,Anaheim,CA,92806,33.8574748,-117.8443033
+Burial Beer Company,40 Collier Ave,,Asheville,NC,28801,35.5881529,-82.5559888
+Burlington Beer Company,25 Omega Dr #150,,Williston,VT,5495,44.4475952,-73.1276669
+Buxton Brewery,Staden Business Park,,Buxton,UK,SK17 9RZ,53.2459354,-1.8982394
+Captain Lawrence Brewing Company,444 Saw Mill River Rd,,Elmsford,NY,10523,41.0704017,-73.8167091
+Carton Brewing Company,6 E Washington Ave,,Atlantic Highlands,NJ,7716,40.4117822,-74.0403682
+Cascade Brewing / Raccoon Lodge & Brewpub,7424 SW Beaverton-Hillsdale Hwy,,Portland,OR,97225,45.4870915,-122.7429931
+Central Waters Brewing Company,351 Allen St,,Amherst,WI,54406,44.4421815,-89.2819771
+Church Brew Works,3525 Liberty Avenue,,Pittsburgh,PA,15201,40.4620769,-79.9643613
+Cigar City Brewing,3924 W Spruce St,,Tampa,FL,33607,27.958895,-82.509196
+Civil Society Brewing,1200 Town Center Dr #101,,Jupiter,FL,33458,26.889558,-80.1169707
+Clown Shoes,23 Hayward St.,,Ipswich,MA,1938,27.958895,-82.509196
+Collective Arts Brewing,207 Burlington St E,Canada,Hamilton,ON ,L8L 4H2,43.2707904,-79.8549052
+Columbus Brewing Company,2555 Harrison Rd,,Columbus,OH,43204,42.671798,-70.843505
+Commonwealth Brewing Company,2444 Pleasure House Rd,,Virginia Beach,VA,23455,36.913373,-76.131905
+Coronado Brewing Company,170 Orange Ave,,Coronado,CA,92118,32.6977361,-117.1753633
+Counter Weight Brewing Company,23 Raccio Park Rd,,Hamden,CT,6514,41.3919028,-72.9193088
+Creature Comforts,271 W Hancock Ave,,Athens,GA,30601,33.9589924,-83.3824793
+Dark Horse Brewing Company,511 South Kalamazoo Street,,Marshall,MI,49068,39.96931561,-83.06672828
+de Garde Brewing,6000 Blimp Blvd,,Tillamook,OR,97141,45.418664,-123.8018432
+De Proefbrouwerij (bvba Andelot),Doornzelestraat 20,,Lochristi-Hijfte,Belgium,9080,51.1160013,3.8142995
+De Struise Brouwers,Kasteelstraat 50,,Oostvleteren,Belgium,8640,50.9318875,2.7354884
+Deschutes Brewery,901 SW Simpson Ave,,Bend,OR,97702,44.7801883,-123.117885
+Dogfish Head Craft Brewery,6 Village Center Boulevard,,Milton,DE,19968,40.4620769,-79.9643613
+Einstök Ölgerð (Einstök Beer Company),18 Furuvellir,,Akureyri,Iceland,,65.6899168,-18.09738
+Epic Brewing Company,825 State St,,Salt Lake City,UT,84111,40.1921625,-110.6785417
+Equilibrium Brewery,22 Henry St,, Middletown,NY,10940,41.4461406,-74.4220944
+Evil Twin Brewing,446 Kent Ave,Apt 14A,Brooklyn,NY,11249,44.04780638,-121.3246184
+Exhibit 'A' Brewing Company,81 Morton St,,Framingham,MA,1702,42.2789104,-71.4038604
+Fat Head's Brewery & Saloon,24581 Lorain Rd.,,North Olmstead,OH,44070,40.7088389,-73.969435
+Fiddlehead Brewing Company,6305 Shelburne Rd,,Shelburne,VT,5482,44.3661445,-73.232595
+Fieldwork Brewing Company,1805 Capitol Ave,,Sacramento,CA,95811,38.2263719,-122.4534353
+FiftyFifty Brewing Company,11197 Brockway Rd,,Truckee,CA,96161,39.3214307,-120.1630273
+Finback Brewery,7801 77th Ave,,Ridgewood,NY,11385,40.7066971,-73.875447
+Firestone Walker Brewing Company,1400 Ramada Drive,,Paso Robles,CA,93446,35.59647955,-120.6944042
+Flossmoor Station Restaurant & Brewery,1035 Sterling Ave,,Flossmoor,IL,60422,41.543227,-87.6808507
+Flying Fish Brewing Company,900 Kennedy Blvd,,Somerdale,NJ,8083,39.8536248,-75.022274
+Foam Brewers,112 Lake St,,Burlington,VT,5401,44.4791379,-73.2221856
+Fort Hill Brewery,30 Fort Hill Rd,,Easthampton,MA,1027,42.2812571,-72.6423791
+Foundation Brewing Company,1 Industrial Way?,,Portland,ME,4103,35.59647955,-120.6944042
+Founders Brewing Company,235 Grandville Ave SW,,Grand Rapids,MI,49503,42.958697,-85.673522
+Fremont Brewing Company,3409 Woodland Park Avenue North,,Seattle,WA,98103,43.7030253,-70.320296
+Frost Beer Works,171 Commerce St,,Hinesburg,VT,5461,44.3354165,-73.111185
+Fulton Beer,414 N 6th Ave,,Minneapolis,MN,55401,44.9849296,-93.2813915
+Funky Buddha Brewery,1201 NE 38th St,,Oakland Park,FL,33334,26.17417107,-80.13144566
+Goose Island Beer Company,1800 W Fulton St,,Chicago,IL,60612,47.64919175,-122.3444366
+Grassroots Brewing,403 Hill Rd,,Greensboro Bend,VT,5842,44.6068317,-72.2653128
+Great Lakes Brewing Company,2516 Market Ave,,Cleveland,OH,44113,41.4843807,-81.7067074
+Great Notion Brewing,2204 NE Alberta St ,#101,"Portland, ",OR ,97211,45.5588904,-122.6426705
+Green Man Brewery,27 Buxton Ave,,Asheville ,NC,28801,35.5886669,-82.5523973
+Grimm Artisanal Ales,PO Box 150472,,Brooklyn,NY,11215,41.8869818,-87.6724
+Hailstorm Brewing Company,8060 186th St,,Tinley Park,IL,60487,41.5535258,-87.817327
+Hair of the Dog Brewing Company / Brewery and Tasting Room,61 SE Yamhill St,,Portland,OR,97214,34.0831712,-117.1419134
+Half Acre Beer Company,4257 N Lincoln Ave,, Chicago,IL,60618,41.9593369,-87.6841635
+Hangar 24 Brewery,1710 Sessums Drive,,Redlands,CA,92374,45.5160413,-122.6655235
+Hardywood Park Craft Brewery,2410 Ownby Ln,,Richmond,VA,23220,40.22451332,-105.2676934
+Haymarket Pub & Brewery,737 W. Randolph,,Chicago,IL,60661,41.8841279,-87.6494349
+Heist Brewery,2901 N Davidson St,,Charlotte,NC,28205,35.245171,-80.809082
+Henniker Brewing Company,129 Centervale Rd,,Henniker,NH,3242,43.17737,-71.7826537
+Hill Farmstead Brewery,403 Hill Rd,,Greensboro Bend,VT,5842,44.6068317,-72.2653128
+Holy Mountain Brewing Company,1421 Elliott Ave W,, Seattle,WA,98119,47.6308025,-122.3767013
+Hoof Hearted Brewing,300 County Rd 26,,Marengo,CO,43334,37.5634246,-77.4580699
+Hoppin' Frog Brewery,1680 E Waterloo Rd,,Akron,OH,44306,41.0245928,-81.4698994
+Industrial Arts Brewing Company,55 W Railroad Ave #25,, Garnerville,NY,10923,41.208345,-73.9933576
+Insight Brewing,2821 E Hennepin Ave,,Minneapolis,MN,55413,44.9919216,-93.2151561
+Interboro Brewing,942 Grand St,,Brooklyn,NY,11211,40.712586,-73.9391357
+Ithaca Beer Company,122 Ithaca Beer Dr,,Ithaca,NY,14850,42.416835,-76.5370487
+J. Wakefield Brewing,120 NW 24th St,,Miami,FL,33127,25.7995463,-80.1975284
+Jackie O's Pub & Brewery,24 W Union St,,Athens,OH,45701,25.7995463,-80.1975284
+Jack's Abby Brewing,100 Clinton St,,Framingham,MA,1702,42.2801844,-71.4133563
+Jester King Brewery,13005 Fitzhugh Road,Bld. B,Austin,TX,78736,40.2351985,-74.04515
+Kane Brewing Company,1750 Bloomsbury Ave,,Ocean,NJ,7712,39.32764514,-82.10223129
+Kern River Brewing Company,13415 Sierra Way,,Kernville,CA,93238,35.7574666,-118.4214856
+Kuhnhenn Brewing Company,5919 Chicago Rd,,Warren,MI,48092,42.52771028,-83.04704389
+La Cumbre Brewing Company,3313 Girard Blvd NE,,Albuquerque,NM,87107,35.11789781,-106.6138649
+Lagunitas Brewing Company,1280 N McDowell Blvd,,Petaluma,CA,94954,38.27264795,-122.6619197
+Lawson's Finest Liquids,Not Open to Public,,Warren,VT,5674,44.1143066,-73.1359318
+Left Hand Brewing Company,1265 Boston Ave,,Longmont,CO,80501,40.1582861,-105.117212
+Les Trois Mousquetaires,3755 Boulevard Matte,Local C,Brossard,QC ,J4Y 2P4,45.4312056,-73.4651899
+LIC Beer Project,28 23rd St,,Long Island City,NY,11101,40.7549273,-73.9414153
+Lift Bridge Brewery,1900 Tower Dr W,,Stillwater,MN,55082,45.0391054,-92.8317848
+Live Oak Brewing Company,1615 Crozier Ln,,Del Valle,TX,78617,45.0391054,-92.8317848
+Logsdon Farmhouse Ales,4785 Booth Hill Rd,,Hood River,OR,97031,30.221009,-97.660539
+Long Trail Brewing Company,5520 US-4,,Bridgewater Corners,VT,5035,43.588444,-72.6618437
+Lost Nation Brewing,87 Old Creamery Rd,, Morristown,VT,5661,44.569689,-72.6052707
+Lupulin Brewing,570 Humboldt Drive,#107,Big Lake,MN,55309,45.331729,-93.7418207
+Magnify Brewing Company,1275 Bloomfield Ave #40C,,Fairfield,NJ,7004,40.8619728,-74.3208386
+Maine Beer Company,525 US Route 1,,Freeport,ME,4032,45.587153,-121.537576
+Maplewood Brewery & Distillery,2717 N Maplewood Ave,,Chicago,IL,60647,41.9308614,-87.6934255
+Maui Brewing Co - Brewpub,4405 Honoapiilani Highway,,Lahaina,HI,96761,20.8837129,-156.6819818
+Melvin Brewing / Thai Me Up,624 Co Rd 101,,Alpine,WY,83128,43.1651305,-111.0404874
+Midnight Sun Brewing Company,8111 Dimond Hook Dr,,Anchorage,AK,99507,61.1471249,-149.8445465
+Mikkeller ApS,"Humletorvet 27, 3 sal",,Copenhagen,Denmark,0,40.682535,-76.19847
+Minneapolis Town Hall Brewery,1430 Washington Ave S,,Minneapolis,MN,55454,44.9733314,-93.247714
+Modern Times Beer,3725 Greenwood St,,San Diego,CA,92110,44.9733314,-93.247714
+Monhegan Brewing Company,1 Boody Lane,,Monhegan,ME,4852,38.7703944,-75.31012439
+Monkish Brewing Company,20311 S Western Ave,, Torrance,CA,90501,33.8463468,-118.3125374
+Moonraker Brewing Company,12970 Earhart Ave #100,,Auburn,CA,95602,38.9504884,-121.0837605
+New Belgium Brewing Inc.,500 Linden Street,,Fort Collins,CO,80524,39.72423185,-121.8154556
+New England Brewing Company,175 Amity Rd,,Woodbridge,CT,6525,32.754233,-117.206153
+New Glarus Brewing Company,2400 Hwy 69,,New Glarus,WA,53574,41.33934991,-72.98083608
+New Holland Brewing Company,66 E 8th St,,Holland,MI,49423,42.8042429,-86.1267247
+Night Shift Brewing,87 Santilli Hwy,,Everett,MA,2149,42.4059707,-71.0700747
+Noble Ale Works,1621 S Sinclair St,,Anaheim,CA,92806,33.80929616,-117.8803057
+North Coast Brewing Company,455 N Main St,,Fort Bragg,CA,95437,39.4480214,-123.8059045
+North Peak Brewing Company,400 W Front St,,Traverse City,MI,49684,44.7642342,-85.6306096
+Odd Side Ales,41 Washington Ave #160,,Grand Haven,MI,49417,43.0649497,-86.2348668
+Odell Brewing Company,800 E Lincoln Ave,,Fort Collins,CO,80524,40.5894674,-105.0653706
+Old Nation Brewing Company,1500 E Grand River Ave,,Williamston,MI,48895,42.6874147,-84.305347
+Olde Hickory Brewery,2 Third Street SW,,Hickory,NC,28602,35.7312007,-81.3444506
+Omnipollo,Tjärhovsgatan 6,,Stockholm,Sweden,116 21 ,59.3148865,18.0726918
+Oskar Blues Grill & Brew,303 Main St,,Lyons,CO,80540,40.22451332,-105.2676934
+Other Half Brewing Company,195 Centre St,,Brooklyn,NY,11231,40.673855,-73.99908
+Otter Creek Brewing,793 Exchange St,,Middlebury,VT,5753,44.0293756,-73.1745362
+Ozark Beer Company,1700 S 1st St,,Rogers,AR,72756,36.3168272,-94.1178372
+Parish Brewing Company,229 Jared Dr,,Broussard,LA,70518,30.159067,-91.951422
+Peg's Cantina & Brew Pub,Closed,,,,0,47.0525739,-122.2942229
+Pelican Pub & Brewery,33180 Cape Kiwanda Dr.,,Pacific City,OR,97135,45.21550758,-123.9695719
+Perennial Artisan Ales,8125 Michigan Ave,,Saint Louis,MI,63111,38.5529585,-90.256699
+Perrin Brewery,5910 Comstock Park Dr NW,,Comstock Park,MI,49321,43.0713315,-85.6836078
+Pipeworks Brewing Company,3912 W McLean Ave,,Chicago,IL,60647,41.9181739,-87.72612963
+Port Brewing,155 Mata Way #104,,San Marcos,CA,92069,33.1416499,-117.1514779
+Prairie Artisan Ales,1803 S 49th West Ave,,Tulsa,OK,74107,41.9181739,-87.72612963
+Privatbrauerei Franz Inselkammer KG / Brauerei Aying,Münchener Str. 21,,Aying,Germany,85653,47.972043,11.7719123
+RAR Brewing (Realerevival),504 Poplar St,,Cambridge,MD,21613,38.5702568,-76.0797356
+River Horse Brewing Company,2 Graphics Dr,,Ewing Township,NJ,8628,40.2765859,-74.7987052
+Rogue Ales,2320 SE Marine Science Dr,, Newport,OR,97365,37.954205,-119.8470415
+Russian River Brewing Company,725 4th St,,Santa Rosa,CA,95404,36.13683008,-96.04715201
+Saint Arnold Brewing Company,2000 Lyons Ave,,Houston,TX,77020,29.771119,-95.3507547
+Sand City Brewing Company,60 Main St,,Northport,NY,11768,40.8999112,-73.3530317
+Sante Adairius Rustic Ales,103 Kennedy Dr,,Capitola,CA,95010,38.44148971,-122.7119479
+Scofflaw Brewing Company,1738 MacArthur Blvd NW,,Atlanta,GA,30318,33.8132889,-84.4470655
+Side Project Brewing,7373 Marietta Ave,,Maplewood,MI,63143,36.9822865,-121.9405747
+Sierra Nevada Brewing Company,1075 E. 20th Street,,Chico,CA,95928,40.59335825,-105.0678421
+SingleCut Beersmiths,19-33 37th St,,Queens,NY,11105,38.6120101,-90.31941177
+Societe Brewing Company,8262 Clairemont Mesa Blvd,,San Diego,CA,92111,40.77829555,-73.90167146
+Southern Tier Brewing Company,2072 Stoneman Cir,,Lakewood,NY,14750,41.2622393,-80.8009585
+Steamworks Brewing Company,801 E 2nd Ave,,Durango,CO,81301,37.2723368,-107.882191
+Stigbergets Bryggeri,Gamla Varvsgatan 1,,Göteborg,Sweden,414 59 ,57.6986059,11.9286729
+Stillwater Artisanal Ales,1028 S Conkling St,,Baltimore,MD,21224,39.2807461,-76.5691672
+Stone Brewing,1999 Citracado Parkway,,Escondido,CA,92029,33.11594475,-117.1199645
+Suarez Family Brewery,2278 U.S. 9,,Hudson,NY,12534,42.110981,-73.8145327
+Summit Brewing Company,910 Montreal Cir,,St Paul,MN,55102,44.914066,-93.1417977
+Surly Brewing Company,4811 Dusharme Dr,,Brooklyn Center,MN,55429,45.04294225,-93.32438933
+SweetWater Brewing Company,195 Ottley Dr NE,,Atlanta,GA,30324,33.8083449,-84.3829239
+Tallgrass Brewing Company,5960 Dry Hop Cir,,Manhattan,KS,66503,39.1427364,-96.6792529
+Terrapin Beer Company,265 Newton Bridge Rd,,Athens,GA,30607,33.980502,-83.3988743
+The Alchemist,35 Crossroad,,Waterbury,VT,5676,32.83283939,-117.1499567
+The Bruery,715 Dunn Way,,Placentia,CA,92870,33.8612257,-117.8801465
+The Lone Pint Brewery,507 Commerce St,,Magnolia,TX,77355,33.8612257,-117.8801465
+The Lost Abbey,155 Mata Way #104,,San Marcos,CA,92069,30.20898494,-95.75217492
+The Schlafly Tap Room,2100 Locust St,,St. Louis,MO,63103,38.6330458,-90.2119459
+The Tap Brewing Company,100 Washington St,,Haverhill,MA,1832,42.7727232,-71.0874632
+The Veil Brewing Company,1301 Roseneath Rd,,Richmond,VA,23230,37.5683137,-77.477533
+Thirsty Dog Brewing Company,529 Grant St,,Akron,OH ,44311,41.0689201,-81.5198163
+Thomas Hooker Brewing Company,16 Tobey Rd,,Bloomfield,CT,6002,41.809184,-72.7128777
+Three Floyds Brewing Company,9750 Indiana Pkwy,,Munster,IN,46321,41.5353502,-87.5165134
+Tired Hands Brewing Company,16 Ardmore Ave,,Ardmore,PA,19003,43.758828,-69.320989
+Toppling Goliath Brewing Company,310 College Dr,,Decorah,IO,52101,41.5353502,-87.5165134
+Tr”egs Brewing Company,200 Hersheypark Dr,,Hershey,PA,17033,40.2973443,-76.644943
+Transient Artisan Ales,4229 Lake St,,Bridgman,MI,49106,41.943286,-86.5578887
+Tree House Brewing Company,160 E Hill Rd,,Monson,MA,1057,42.08938597,-72.28960609
+Trillium Brewing Company,369 Congress St,,Boston,MA,2210,42.08938597,-72.28960609
+Unibroue,80 Rue des Carrières, Canada,Chambly,QC ,J3L 2H6,45.4411889,-73.2636697
+Upper Pass Beer Company,VT 110,,Tunbridge,VT,5077,43.8993275,-72.4873874
+Voodoo Brewing Company,215 Arch St,,Meadville,PA,16335,42.3492432,-71.0445707
+Weisses Br„uhaus G. Schneider & Sohn GmbH,Emil-Ott-Straße 1,,Kelheim, Germany,93309,48.9172322,11.8726909
+Westbrook Brewing Co.,510 Ridge Rd,,Mt Pleasant,SC,29464,32.8467158,-79.8788237
+Westbrook Brewing Company,510 Ridge Rd,,Mt Pleasant,SC,29464,41.6372706,-80.1547476
+Weyerbacher Brewing Company,905 Line St,,Easton,PA,18042,40.6732415,-75.2278958
+Wicked Weed Brewing,91 Biltmore Ave,,Asheville,NC,28801,35.591694,-82.5532212
+Willoughby Brewing,4057 Erie Street,,Willoughby,OH,44094,41.6414616,-81.40649952
+Yuengling Brewery,501 Mahantongo St,,Pottsville,PA,17901,40.0086029,-75.2936914
+Ram Restaurant & Brewery,Various: 1901 McConnor Pkwy,Ste 4-103,Schaumburg,IL,60173,42.0539178,-88.0330751
+The Alchemist Brewery and Visitors Center,100 Cottage Club Rd,,Stowe,VT,5672,44.4762604,-72.7166371
+WeldWerks Brewing Company,508 8th Ave,,Greeley,CO ,80631,40.428113,-104.6927021
+Fort George Brewery + Public House,1483 Duane St,,Astoria,OR,97103,46.1884581,-123.8297099
+Two Roads Brewing Company,1700 Stratford Ave,,Stratford,CT,6615,41.1862668,-73.1443408
+Crooked Stave Artisan Beer Project,3350 Brighton Blvd,,Denver,CO,80216,39.7685881,-104.979519

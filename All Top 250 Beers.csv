@@ -1,407 +1,391 @@
-"","Brewery","Beer","Street","Street2","City","State","Zip"
-"1","3 Floyds Brewing Co.","Bourbon Barrel Aged Vanilla Bean Dark Lord",NA,NA,NA,NA,NA
-"2","3 Floyds Brewing Co.","Zombie Dust",NA,NA,NA,NA,NA
-"3","3 Floyds Brewing Co.","Bourbon Barrel Aged Dark Lord Imperial Stout",NA,NA,NA,NA,NA
-"4","3 Floyds Brewing Co.","Permanent Funeral",NA,NA,NA,NA,NA
-"5","3 Floyds Brewing Co.","Dreadnaught IPA",NA,NA,NA,NA,NA
-"6","4 Hands Brewing Co.","Madagascar",NA,NA,NA,NA,NA
-"7","4 Hands Brewing Company","Madagascar","1220 S 8th St","","St. Louis","MO","63104"
-"8","AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee (Bourbon Barrel Aged)","9990 AleSmith Ct","","San Diego","CA","92126"
-"9","AleSmith Brewing Company","AleSmith Speedway Stout - Kopi Luwak","9990 AleSmith Ct","","San Diego","CA","92126"
-"10","AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee","9990 AleSmith Ct","","San Diego","CA","92126"
-"11","AleSmith Brewing Company","AleSmith Speedway Stout - Bourbon Barrel Aged","9990 AleSmith Ct","","San Diego","CA","92126"
-"12","AleSmith Brewing Company","AleSmith Speedway Stout","9990 AleSmith Ct","","San Diego","CA","92126"
-"13","Allagash Brewing Company","Allagash Cuv?e D'Industrial",NA,NA,NA,NA,NA
-"14","Allagash Brewing Company","Allagash Coolship Red",NA,NA,NA,NA,NA
-"15","Allagash Brewing Company","Allagash Cuv‚e D'Industrial",NA,NA,NA,NA,NA
-"16","Alpine Beer Company","Hoppy Birthday","2363 Alpine Blvd","","Alpine","CA","91901"
-"17","Alpine Beer Company","Pure Hoppiness","2363 Alpine Blvd","","Alpine","CA","91901"
-"18","Alpine Beer Company","Exponential Hoppiness","2363 Alpine Blvd","","Alpine","CA","91901"
-"19","Alpine Beer Company","Nelson","2363 Alpine Blvd","","Alpine","CA","91901"
-"20","Alpine Beer Company","Duet","2363 Alpine Blvd","","Alpine","CA","91901"
-"21","Alpine Beer Company","Bad Boy","2363 Alpine Blvd","","Alpine","CA","91901"
-"22","Alpine Beer Company","Great","2363 Alpine Blvd","","Alpine","CA","91901"
-"23","Alpine Beer Company","Keene Idea","2363 Alpine Blvd","","Alpine","CA","91901"
-"24","Anchorage Brewing Company","A Deal With The Devil","148 West 91st Ave?","","Anchorage","AK","99515"
-"25","Anchorage Brewing Company","Bitter Monk","148 West 91st Ave?","","Anchorage","AK","99515"
-"26","Aslin Beer Company","Mind The Hop","1330 N Forest St","","Bellingham","WA","98225"
-"27","Aslin Beer Company","Master Of Karate","1330 N Forest St","","Bellingham","WA","98225"
-"28","Aslin Beer Company","Orange Starfish","1330 N Forest St","","Bellingham","WA","98225"
-"29","Avery Brewing Company","Callipygian","4910 Nautilus Ct","","Boulder","CO","80301"
-"30","Avery Brewing Company","Uncle Jacob's Stout","4910 Nautilus Ct","","Boulder","CO","80301"
-"31","Avery Brewing Company","Tweak","4910 Nautilus Ct","","Boulder","CO","80301"
-"32","Ballast Point Brewing Company","Victory At Sea Coffee Vanilla Imperial Porter","9045 Carroll Way","","San Diego","CA","92121"
-"33","Ballast Point Brewing Company","Sculpin IPA","9045 Carroll Way","","San Diego","CA","92121"
-"34","Bayerische Staatsbrauerei Weihenstephan","Weihenstephaner Hefeweissbier","Alte Akademie 2","","Freising","Germany","85354"
-"35","Bell's Brewery, Inc.","30th Anniversary Ale","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007"
-"36","Bell's Brewery, Inc.","Bell's Black Note Stout","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007"
-"37","Bell's Brewery, Inc.","Hopslam Ale","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007"
-"38","Bissell Brothers Brewing Co.","Swish",NA,NA,NA,NA,NA
-"39","Bissell Brothers Brewing Company","Swish","4 THOMPSONS PT","STE 108-109","Portland","ME","4102"
-"40","Boneyard Beer Company","Notorious Triple IPA","37 NW Lake Pl, Suite B","","Bend","OR","97701"
-"41","Boneyard Beer Company","Hop Venom Double IPA","37 NW Lake Pl, Suite B","","Bend","OR","97701"
-"42","Boston Beer Company (Samuel Adams)","Samuel Adams Utopias","30 Germania St","","Jamaica Plain","MA","2130"
-"43","Bottle Logic Brewing","Leche Borracho","1072 N Armando St","","Anaheim","CA","92806"
-"44","Bottle Logic Brewing","Ground State - 2nd Anniversary Beer","1072 N Armando St","","Anaheim","CA","92806"
-"45","Bottle Logic Brewing","Fundamental Observation","1072 N Armando St","","Anaheim","CA","92806"
-"46","Brasserie Cantillon","Cantillon Saint Lamvinus","Rue Gheude 56","","Brussels","Belgium","1070"
-"47","Brasserie Cantillon","Cantillon Lou Pepe - Gueuze","Rue Gheude 56","","Brussels","Belgium","1070"
-"48","Brasserie Cantillon","Cantillon Lou Pepe - Kriek","Rue Gheude 56","","Brussels","Belgium","1070"
-"49","Brasserie Cantillon","Cantillon Bl†b‘r Lambik","Rue Gheude 56","","Brussels","Belgium","1070"
-"50","Brasserie Cantillon","Cantillon Lou Pepe - Framboise","Rue Gheude 56","","Brussels","Belgium","1070"
-"51","Brasserie Cantillon","Cantillon Bl?b?r Lambik","Rue Gheude 56","","Brussels","Belgium","1070"
-"52","Brasserie Cantillon","Cantillon Blåbær Lambik","Rue Gheude 56","","Brussels","Belgium","1070"
-"53","Brasserie Cantillon","Cantillon Gueuze 100% Lambic","Rue Gheude 56","","Brussels","Belgium","1070"
-"54","Brasserie Cantillon","Cantillon Fou' Foune","Rue Gheude 56","","Brussels","Belgium","1070"
-"55","Brasserie de Rochefort","Trappistes Rochefort 10","Rue de l'Abbaye 8","","Rochefort","Belgium","5580"
-"56","Brasserie Dieu du Ciel!","Péché Mortel En Fût De Bourbon Américain","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"57","Brasserie Dieu du Ciel!","P?ch? Mortel En F?t De Bourbon Am?ricain","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"58","Brasserie Dieu du Ciel!","P‚ch‚ Mortel","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"59","Brasserie Dieu du Ciel!","P‚ch‚ Mortel En F–t De Bourbon Am‚ricain","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"60","Brasserie Dieu du Ciel!","Péché Mortel","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"61","Brasserie Dieu du Ciel!","P?ch? Mortel","29 Av Laurier O","","Montreal","QC","H2T 2N2"
-"62","Brothers Craft Brewing","Resolute - Coconut","800 N Main St","","Harrisonburg","VA","22802"
-"63","Brouwerij Drie Fonteinen","Drie Fonteinen Framboos","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"64","Brouwerij Drie Fonteinen","Drie Fonteinen Hommage","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"65","Brouwerij Drie Fonteinen","Drie Fonteinen Oude Geuze Vintage","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"66","Brouwerij Drie Fonteinen","Drie Fonteinen Oude Geuze Golden Blend","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"67","Brouwerij Drie Fonteinen","Drie Fonteinen Oude Geuze","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"68","Brouwerij Drie Fonteinen","Drie Fonteinen Zenne Y Frontera","3 Herman Teirlinckplein","","Beersel","Belgium","1650"
-"69","Brouwerij Rodenbach N.V.","Rodenbach Caract?re Rouge","Spanjestraat 133-141","","Roeselare","Belgium","8800"
-"70","Brouwerij Rodenbach N.V.","Alexander (2016)","Spanjestraat 133-141","","Roeselare","Belgium","8800"
-"71","Brouwerij Rodenbach N.V.","Alexander","Spanjestraat 133-141","","Roeselare","Belgium","8800"
-"72","Brouwerij Rodenbach N.V.","Rodenbach CaractŠre Rouge","Spanjestraat 133-141","","Roeselare","Belgium","8800"
-"73","Brouwerij Rodenbach N.V.","Rodenbach Caractère Rouge","Spanjestraat 133-141","","Roeselare","Belgium","8800"
-"74","Brouwerij St. Bernardus NV","St. Bernardus Abt 12","Trappistenweg 23","","Watou","Belgium","8978"
-"75","Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 12 (XII)","Donkerstraat 12","","Westvleteren","Belgium","8640"
-"76","Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 8 (VIII)","Donkerstraat 12","","Westvleteren","Belgium","8640"
-"77","Buxton Brewery","Buxton / Omnipollo Yellow Belly","Staden Business Park","","Buxton","UK","SK17 9RZ"
-"78","Captain Lawrence Brewing Company","Cuvee De Castleton",NA,NA,NA,NA,NA
-"79","Cascade Brewing / Raccoon Lodge & Brewpub","Cascade Sang Noir","7424 SW Beaverton-Hillsdale Hwy","","Portland","OR","97225"
-"80","Central Waters Brewing Co.","Black Gold (2015)",NA,NA,NA,NA,NA
-"81","Central Waters Brewing Company","Seventeen",NA,NA,NA,NA,NA
-"82","Central Waters Brewing Company","Black Gold (2015)",NA,NA,NA,NA,NA
-"83","Cigar City Brewing","Hunahpu's Imperial Stout","3924 W Spruce St","","Tampa","FL","33607"
-"84","Cigar City Brewing","Hunahpu's Imperial Stout - Double Barrel Aged","3924 W Spruce St","","Tampa","FL","33607"
-"85","Cigar City Brewing","Caff? Americano","3924 W Spruce St","","Tampa","FL","33607"
-"86","Cigar City Brewing","Marshal Zhukov's Imperial Stout - Apple Brandy Barrel Aged W/ Vanilla Beans","3924 W Spruce St","","Tampa","FL","33607"
-"87","Cigar City Brewing","Caffè Americano","3924 W Spruce St","","Tampa","FL","33607"
-"88","Cigar City Brewing","Decoherence","3924 W Spruce St","","Tampa","FL","33607"
-"89","Cigar City Brewing","Zhukov's Final Push","3924 W Spruce St","","Tampa","FL","33607"
-"90","Cigar City Brewing","CaffŠ Americano","3924 W Spruce St","","Tampa","FL","33607"
-"91","Civil Society Brewing","Pulp",NA,NA,NA,NA,NA
-"92","Clown Shoes","Breakfast Exorcism","23 Hayward St.","","Ipswich","MA","1938"
-"93","Columbus Brewing Company","Columbus Bodhi DIPA","2555 Harrison Rd","","Columbus","OH","43204"
-"94","Creature Comforts","See The Stars",NA,NA,NA,NA,NA
-"95","Dark Horse Brewing Company","Dark Horse Bourbon Barrel Aged Plead The 5th","511 South Kalamazoo Street","","Marshall","MI","49068"
-"96","de Garde Brewing","The Broken Truck","6000 Blimp Blvd","","Tillamook","OR","97141"
-"97","de Garde Brewing","Nectarine Premiere","6000 Blimp Blvd","","Tillamook","OR","97141"
-"98","De Struise Brouwers","Pannepot",NA,NA,NA,NA,NA
-"99","De Struise Brouwers","Black Damnation V - Double Black",NA,NA,NA,NA,NA
-"100","Deschutes Brewery","The Abyss","901 SW Simpson Ave","","Bend","OR","97702"
-"101","Deschutes Brewery","The Abyss (Rye Whiskey Barrel-Aged)","901 SW Simpson Ave","","Bend","OR","97702"
-"102","Evil Twin Brewing","Imperial Biscotti Break Bourbon Barrel Aged","446 Kent Ave","Apt 14A","Brooklyn","NY","11249"
-"103","Evil Twin Brewing","Evil Twin Imperial Biscotti Break","446 Kent Ave","Apt 14A","Brooklyn","NY","11249"
-"104","Evil Twin Brewing","Evil Twin Double Barrel Jesus","446 Kent Ave","Apt 14A","Brooklyn","NY","11249"
-"105","Fat Head's Brewery & Saloon","Hop JuJu Imperial IPA","24581 Lorain Rd.","","North Olmstead","OH","44070"
-"106","Fat Head's Brewery & Saloon","Fat Head's Head Hunter IPA","24581 Lorain Rd.","","North Olmstead","OH","44070"
-"107","Fiddlehead Brewing Company","Second Fiddle","6305 Shelburne Rd","","Shelburne","VT","5482"
-"108","Fiddlehead Brewing Company","Mastermind","6305 Shelburne Rd","","Shelburne","VT","5482"
-"109","FiftyFifty Brewing Co.","Imperial Eclipse Stout - Elijah Craig (12 Year)",NA,NA,NA,NA,NA
-"110","FiftyFifty Brewing Company","Imperial Eclipse Stout - Elijah Craig (12 Year)","11197 Brockway Rd","","Truckee","CA","96161"
-"111","Firestone Walker Brewing Co.","Parabajava",NA,NA,NA,NA,NA
-"112","Firestone Walker Brewing Co.","Stickee Monkee",NA,NA,NA,NA,NA
-"113","Firestone Walker Brewing Co.","Parabola",NA,NA,NA,NA,NA
-"114","Firestone Walker Brewing Co.","?ucaba",NA,NA,NA,NA,NA
-"115","Firestone Walker Brewing Company","Parabajava","1400 Ramada Drive","","Paso Robles","CA","93446"
-"116","Firestone Walker Brewing Company","Firestone 19 - Anniversary Ale","1400 Ramada Drive","","Paso Robles","CA","93446"
-"117","Firestone Walker Brewing Company","Stickee Monkee","1400 Ramada Drive","","Paso Robles","CA","93446"
-"118","Firestone Walker Brewing Company","§ucaba","1400 Ramada Drive","","Paso Robles","CA","93446"
-"119","Firestone Walker Brewing Company","Bretta Ros‚","1400 Ramada Drive","","Paso Robles","CA","93446"
-"120","Firestone Walker Brewing Company","?ucaba","1400 Ramada Drive","","Paso Robles","CA","93446"
-"121","Firestone Walker Brewing Company","Parabola","1400 Ramada Drive","","Paso Robles","CA","93446"
-"122","Flossmoor Station Restaurant & Brewery","Bourbon Barrel Aged Hi-Fi Rye",NA,NA,NA,NA,NA
-"123","Foundation Brewing Company","Epiphany","1 Industrial Way?","","Portland","ME","4103"
-"124","Founders Brewing Company","Founders Imperial Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503"
-"125","Founders Brewing Company","Founders KBS (Kentucky Breakfast Stout)","235 Grandville Ave SW","","Grand Rapids","MI","49503"
-"126","Founders Brewing Company","Founders CBS Imperial Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503"
-"127","Founders Brewing Company","Founders Breakfast Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503"
-"128","Fremont Brewing Company","Bourbon Barrel Aged Dark Star Oatmeal Stout","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"129","Fremont Brewing Company","Bourbon Barrel Aged Abominable: Coffee And Cinnamon","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"130","Fremont Brewing Company","The Rusty Nail","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"131","Fremont Brewing Company","Brew 1000 - Bourbon Barrel Aged","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"132","Fremont Brewing Company","Bourbon Barrel Aged Dark Star: Coffee Edition","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"133","Fremont Brewing Company","Bourbon Abominable Winter Ale","3409 Woodland Park Avenue North","","Seattle","WA","98103"
-"134","Funky Buddha Brewery","Snowed In - Bourbon Barrel Aged","1201 NE 38th St","","Oakland Park","FL","33334"
-"135","Funky Buddha Brewery","Morning Wood","1201 NE 38th St","","Oakland Park","FL","33334"
-"136","Funky Buddha Brewery","Maple Bacon Coffee Porter","1201 NE 38th St","","Oakland Park","FL","33334"
-"137","Funky Buddha Brewery","Wide Awake It's Morning","1201 NE 38th St","","Oakland Park","FL","33334"
-"138","Funky Buddha Brewery","Last Buffalo In The Park","1201 NE 38th St","","Oakland Park","FL","33334"
-"139","Funky Buddha Brewery","Last Snow","1201 NE 38th St","","Oakland Park","FL","33334"
-"140","Goose Island Beer Co.","Bourbon County Brand Stout",NA,NA,NA,NA,NA
-"141","Goose Island Beer Co.","Bourbon County Brand Barleywine Ale",NA,NA,NA,NA,NA
-"142","Goose Island Beer Co.","Bourbon County Brand Coffee Stout",NA,NA,NA,NA,NA
-"143","Goose Island Beer Co.","Rare Bourbon County Brand Stout (2015)",NA,NA,NA,NA,NA
-"144","Goose Island Beer Company","Bourbon County Brand Barleywine Ale","1800 W Fulton St","","Chicago","IL","60612"
-"145","Goose Island Beer Company","Rare Bourbon County Brand Stout (2015)","1800 W Fulton St","","Chicago","IL","60612"
-"146","Goose Island Beer Company","Bourbon County Brand Coffee Stout","1800 W Fulton St","","Chicago","IL","60612"
-"147","Goose Island Beer Company","Bourbon County Brand Stout","1800 W Fulton St","","Chicago","IL","60612"
-"148","Grassroots Brewing","Grassroots Brother Soign‚",NA,NA,NA,NA,NA
-"149","Grassroots Brewing","Grassroots Brother Soign?",NA,NA,NA,NA,NA
-"150","Great Lakes Brewing Co.","Great Lakes Barrel-Aged Blackout Stout",NA,NA,NA,NA,NA
-"151","Great Lakes Brewing Company","Great Lakes Barrel-Aged Blackout Stout",NA,NA,NA,NA,NA
-"152","Grimm Artisanal Ales","Lambo Door","PO Box 150472","","Brooklyn","NY","11215"
-"153","Grimm Artisanal Ales","Magnetic Compass","PO Box 150472","","Brooklyn","NY","11215"
-"154","Grimm Artisanal Ales","Lumen","PO Box 150472","","Brooklyn","NY","11215"
-"155","Grimm Artisanal Ales","Afterimage","PO Box 150472","","Brooklyn","NY","11215"
-"156","Grimm Artisanal Ales","Tesseract","PO Box 150472","","Brooklyn","NY","11215"
-"157","Hair of the Dog Brewing Company / Brewery and Tasting Room","Matt","61 SE Yamhill St","","Portland","OR","97214"
-"158","Hair of the Dog Brewing Company / Brewery and Tasting Room","Adam From The Wood","61 SE Yamhill St","","Portland","OR","97214"
-"159","Hangar 24 Brewery","Pugachev Royale","1710 Sessums Drive","","Redlands","CA","92374"
-"160","Hardywood Park Craft Brewery","Trickery","2410 Ownby Ln","","Richmond","VA","23220"
-"161","Hardywood Park Craft Brewery","Kentucky Christmas Morning","2410 Ownby Ln","","Richmond","VA","23220"
-"162","Haymarket Pub & Brewery","Clare's Thirsty Ale","737 W. Randolph","","Chicago","IL","60661"
-"163","Heist Brewery","Citraquench'l","2901 N Davidson St","","Charlotte","NC","28205"
-"164","Hill Farmstead Brewery","Everett Porter","403 Hill Rd","","Greensboro Bend","VT","5842"
-"165","Hill Farmstead Brewery","Genealogy Of Morals (Bourbon Barrel Aged)","403 Hill Rd","","Greensboro Bend","VT","5842"
-"166","Hill Farmstead Brewery","Susan","403 Hill Rd","","Greensboro Bend","VT","5842"
-"167","Hill Farmstead Brewery","Citra Pale Ale","403 Hill Rd","","Greensboro Bend","VT","5842"
-"168","Hill Farmstead Brewery","Edward","403 Hill Rd","","Greensboro Bend","VT","5842"
-"169","Hill Farmstead Brewery","Society & Solitude #6","403 Hill Rd","","Greensboro Bend","VT","5842"
-"170","Hill Farmstead Brewery","Juicy","403 Hill Rd","","Greensboro Bend","VT","5842"
-"171","Hill Farmstead Brewery","Nelson Single Hop","403 Hill Rd","","Greensboro Bend","VT","5842"
-"172","Hill Farmstead Brewery","Flora Plum","403 Hill Rd","","Greensboro Bend","VT","5842"
-"173","Hill Farmstead Brewery","Society & Solitude #5","403 Hill Rd","","Greensboro Bend","VT","5842"
-"174","Hill Farmstead Brewery","Ephraim","403 Hill Rd","","Greensboro Bend","VT","5842"
-"175","Hill Farmstead Brewery","Ann","403 Hill Rd","","Greensboro Bend","VT","5842"
-"176","Hill Farmstead Brewery","Society & Solitude #4","403 Hill Rd","","Greensboro Bend","VT","5842"
-"177","Hill Farmstead Brewery","Abner","403 Hill Rd","","Greensboro Bend","VT","5842"
-"178","Hill Farmstead Brewery","What Is Enlightenment?","403 Hill Rd","","Greensboro Bend","VT","5842"
-"179","Hill Farmstead Brewery","Double Citra","403 Hill Rd","","Greensboro Bend","VT","5842"
-"180","Hill Farmstead Brewery","Birth Of Tragedy","403 Hill Rd","","Greensboro Bend","VT","5842"
-"181","Hill Farmstead Brewery","Aaron","403 Hill Rd","","Greensboro Bend","VT","5842"
-"182","Hill Farmstead Brewery","Civil Disobedience #15","403 Hill Rd","","Greensboro Bend","VT","5842"
-"183","Hill Farmstead Brewery","Damon (Bourbon Barrel Aged)","403 Hill Rd","","Greensboro Bend","VT","5842"
-"184","Hill Farmstead Brewery","Double Galaxy","403 Hill Rd","","Greensboro Bend","VT","5842"
-"185","Hill Farmstead Brewery","Beyond Good And Evil","403 Hill Rd","","Greensboro Bend","VT","5842"
-"186","Hoof Hearted Brewing","Dragonsaddle","300 County Rd 26","","Marengo","CO","43334"
-"187","J. Wakefield Brewing","Dragon Fruit Passion Fruit Berliner","120 NW 24th St","","Miami","FL","33127"
-"188","J. Wakefield Brewing","Miami Madness","120 NW 24th St","","Miami","FL","33127"
-"189","Jackie O's Pub & Brewery","Oro Negro","24 W Union St","","Athens","OH","45701"
-"190","Jackie O's Pub & Brewery","Bourbon Barrel Champion Ground","24 W Union St","","Athens","OH","45701"
-"191","Jackie O's Pub & Brewery","Bourbon Barrel Black Maple","24 W Union St","","Athens","OH","45701"
-"192","Jackie O's Pub & Brewery","Bourbon Barrel Oro Negro","24 W Union St","","Athens","OH","45701"
-"193","Jester King Brewery","Sherry Barrel Atrial Rubicite","13005 Fitzhugh Road","Bld. B","Austin","TX","78736"
-"194","Jester King Brewery","Montmorency Vs Balaton","13005 Fitzhugh Road","Bld. B","Austin","TX","78736"
-"195","Jester King Brewery","Atrial Rubicite","13005 Fitzhugh Road","Bld. B","Austin","TX","78736"
-"196","Kane Brewing Company","Sunday Brunch","1750 Bloomsbury Ave","","Ocean","NJ","7712"
-"197","Kane Brewing Company","Mexican Brunch","1750 Bloomsbury Ave","","Ocean","NJ","7712"
-"198","Kern River Brewing Company","Citra","13415 Sierra Way","","Kernville","CA","93238"
-"199","Kern River Brewing Company","Winter Ale / 5th Anniversary Ale","13415 Sierra Way","","Kernville","CA","93238"
-"200","Kern River Brewing Company","Citra Double IPA","13415 Sierra Way","","Kernville","CA","93238"
-"201","Kern River Brewing Company","Winter Ale (5th Anniversary Ale)","13415 Sierra Way","","Kernville","CA","93238"
-"202","Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Fourth Dementia","5919 Chicago Rd","","Warren","MI","48092"
-"203","Kuhnhenn Brewing Company","Kuhnhenn Raspberry Eisbock","5919 Chicago Rd","","Warren","MI","48092"
-"204","Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Barley Wine","5919 Chicago Rd","","Warren","MI","48092"
-"205","La Cumbre Brewing Co.","Elevated IPA",NA,NA,NA,NA,NA
-"206","La Cumbre Brewing Co.","Project Dank",NA,NA,NA,NA,NA
-"207","La Cumbre Brewing Company","Elevated IPA","3313 Girard Blvd NE","","Albuquerque","NM","87107"
-"208","La Cumbre Brewing Company","Project Dank","3313 Girard Blvd NE","","Albuquerque","NM","87107"
-"209","Lagunitas Brewing Company","High West-ified Imperial Coffee Stout","1280 N McDowell Blvd","","Petaluma","CA","94954"
-"210","Lagunitas Brewing Company","Born Yesterday Pale Ale","1280 N McDowell Blvd","","Petaluma","CA","94954"
-"211","Lagunitas Brewing Company","Lagunitas Sucks (Brown Shugga Substitute Ale)","1280 N McDowell Blvd","","Petaluma","CA","94954"
-"212","Lagunitas Brewing Company","ScareCity #3: High West-ified Imperial Coffee Stout","1280 N McDowell Blvd","","Petaluma","CA","94954"
-"213","Lawson's Finest Liquids","Double Sunshine IPA","Not Open to Public","","Warren","VT","5674"
-"214","Lawson's Finest Liquids","Sip Of Sunshine","Not Open to Public","","Warren","VT","5674"
-"215","Lawson's Finest Liquids","Triple Sunshine IPA","Not Open to Public","","Warren","VT","5674"
-"216","Lift Bridge Brewery","Barrel-Aged Silhouette","1900 Tower Dr W","","Stillwater","MN","55082"
-"217","Live Oak Brewing Company","Live Oak HefeWeizen","1615 Crozier Ln","","Del Valle","TX","78617"
-"218","Logsdon Farmhouse Ales","Peche 'n Brett","4785 Booth Hill Rd","","Hood River","OR","97031"
-"219","Maine Beer Company","Dinner","525 US Route 1","","Freeport","ME","4032"
-"220","Maine Beer Company","Lunch","525 US Route 1","","Freeport","ME","4032"
-"221","Midnight Sun Brewing Co.","Arctic Devil Barley Wine",NA,NA,NA,NA,NA
-"222","Midnight Sun Brewing Company","Sloth - Belgian-Style Imperial Stout","8111 Dimond Hook Dr","","Anchorage","AK","99507"
-"223","Midnight Sun Brewing Company","Arctic Devil Barley Wine","8111 Dimond Hook Dr","","Anchorage","AK","99507"
-"224","Mikkeller ApS","Beer Geek Vanilla Shake (Bourbon Edition)","Humletorvet 27, 3 sal","","Copenhagen","Denmark",""
-"225","Mikkeller ApS","Beer Geek Brunch Weasel","Humletorvet 27, 3 sal","","Copenhagen","Denmark",""
-"226","Minneapolis Town Hall Brewery","Three Hour Tour","1430 Washington Ave S","","Minneapolis","MN","55454"
-"227","Minneapolis Town Hall Brewery","Masala Mama India Pale Ale","1430 Washington Ave S","","Minneapolis","MN","55454"
-"228","Modern Times Beer","Monsters Park - Bourbon Barrel Aged With Coconut And Cacao Nibs","3725 Greenwood St","","San Diego","CA","92110"
-"229","New England Brewing Co.","Fuzzy Baby Ducks IPA",NA,NA,NA,NA,NA
-"230","New England Brewing Co.","Coriolis",NA,NA,NA,NA,NA
-"231","New England Brewing Company","Locust Reign","175 Amity Rd","","Woodbridge","CT","6525"
-"232","New England Brewing Company","Coriolis","175 Amity Rd","","Woodbridge","CT","6525"
-"233","New England Brewing Company","Fuzzy Baby Ducks IPA","175 Amity Rd","","Woodbridge","CT","6525"
-"234","New Glarus Brewing Company","Serendipity","2400 Hwy 69","","New Glarus","WA","53574"
-"235","New Glarus Brewing Company","Raspberry Tart","2400 Hwy 69","","New Glarus","WA","53574"
-"236","New Glarus Brewing Company","R&D Vintage 2014","2400 Hwy 69","","New Glarus","WA","53574"
-"237","New Glarus Brewing Company","Wisconsin Belgian Red","2400 Hwy 69","","New Glarus","WA","53574"
-"238","Noble Ale Works","Citra Showers","1621 S Sinclair St","","Anaheim","CA","92806"
-"239","North Coast Brewing Co.","Old Stock Cellar Reserve (Aged In Bourbon Barrels)",NA,NA,NA,NA,NA
-"240","North Coast Brewing Company","Old Stock Cellar Reserve (Aged In Bourbon Barrels)","455 N Main St","","Fort Bragg","CA","95437"
-"241","Odd Side Ales","Hipster Brunch Stout",NA,NA,NA,NA,NA
-"242","Olde Hickory Brewery","Omega Point","2 Third Street SW","","Hickory","NC","28602"
-"243","Olde Hickory Brewery","The Event Horizon","2 Third Street SW","","Hickory","NC","28602"
-"244","Oskar Blues Grill & Brew","Ten Fidy Bourbon Barrel Aged","303 Main St","","Lyons","CO","80540"
-"245","Oskar Blues Grill & Brew","Ten FIDY Bourbon Barrel Aged","303 Main St","","Lyons","CO","80540"
-"246","Oskar Blues Grill & Brew","Ten FIDY","303 Main St","","Lyons","CO","80540"
-"247","Oskar Blues Grill & Brew","Ten Fidy-Bourbon Barrel Aged 2015","303 Main St","","Lyons","CO","80540"
-"248","Other Half Brewing Co.","Mosaic IPA",NA,NA,NA,NA,NA
-"249","Other Half Brewing Co.","All Green Everything",NA,NA,NA,NA,NA
-"250","Other Half Brewing Company","All Green Everything","195 Centre St","","Brooklyn","NY","11231"
-"251","Other Half Brewing Company","Mosaic IPA","195 Centre St","","Brooklyn","NY","11231"
-"252","Ozark Beer Co.","BDCS",NA,NA,NA,NA,NA
-"253","Ozark Beer Company","BDCS","1700 S 1st St","","Rogers","AR","72756"
-"254","Parish Brewing Company","Ghost In The Machine","229 Jared Dr","","Broussard","LA","70518"
-"255","Peg's Cantina & Brew Pub","Trademark Dispute: &+","Closed","","","",""
-"256","Peg's Cantina & Brew Pub","Crank IPA","Closed","","","",""
-"257","Peg's Cantina & Brew Pub","Hazelnut","Closed","","","",""
-"258","Peg's Cantina & Brew Pub","Trademark Dispute: Nooner 10","Closed","","","",""
-"259","Peg's Cantina & Brew Pub","Nooner Batch 10","Closed","","","",""
-"260","Peg's Cantina & Brew Pub","&+","Closed","","","",""
-"261","Peg's Cantina & Brew Pub","Trademark Dispute: Pallet 1","Closed","","","",""
-"262","Peg's Cantina & Brew Pub","Trademark Dispute: Hazelnut","Closed","","","",""
-"263","Peg's Cantina & Brew Pub","Peg's G.O.O.D. RareR D.O.S.","Closed","","","",""
-"264","Peg's Cantina & Brew Pub","Pallet 1","Closed","","","",""
-"265","Peg's Cantina & Brew Pub","Rare Scooop","Closed","","","",""
-"266","Pelican Pub & Brewery","Mother Of All Storms","33180 Cape Kiwanda Dr.","","Pacific City","OR","97135"
-"267","Perennial Artisan Ales","Barrel-Aged Abraxas","8125 Michigan Ave","","Saint Louis","MI","63111"
-"268","Perennial Artisan Ales","Abraxas","8125 Michigan Ave","","Saint Louis","MI","63111"
-"269","Perrin Brewery","No Rules","5910 Comstock Park Dr NW","","Comstock Park","MI","49321"
-"270","Pipeworks Brewing Company","Pipeworks / 4 Hands Square Grouper","3912 W McLean Ave","","Chicago","IL","60647"
-"271","Pipeworks Brewing Company","Pipeworks / 4 Hands Emerald Grouper","3912 W McLean Ave","","Chicago","IL","60647"
-"272","Pipeworks Brewing Company","Crimson Snapper","3912 W McLean Ave","","Chicago","IL","60647"
-"273","Pipeworks Brewing Company","Spotted Puffer","3912 W McLean Ave","","Chicago","IL","60647"
-"274","Pipeworks Brewing Company","Sure Bet","3912 W McLean Ave","","Chicago","IL","60647"
-"275","Port Brewing","Older Viscosity",NA,NA,NA,NA,NA
-"276","Prairie Artisan Ales","Prairie Apple Brandy Noir","1803 S 49th West Ave","","Tulsa","OK","74107"
-"277","Prairie Artisan Ales","Birthday Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107"
-"278","Prairie Artisan Ales","BOMB!","1803 S 49th West Ave","","Tulsa","OK","74107"
-"279","Prairie Artisan Ales","Prairie Pirate Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107"
-"280","Prairie Artisan Ales","Pirate Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107"
-"281","Prairie Artisan Ales","Barrel Aged Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107"
-"282","Privatbrauerei Franz Inselkammer KG / Brauerei Aying","Ayinger Celebrator Doppelbock",NA,NA,NA,NA,NA
-"283","Russian River Brewing Company","Consecration","725 4th St","","Santa Rosa","CA","95404"
-"284","Russian River Brewing Company","Beatification","725 4th St","","Santa Rosa","CA","95404"
-"285","Russian River Brewing Company","Compunction","725 4th St","","Santa Rosa","CA","95404"
-"286","Russian River Brewing Company","Pliny The Younger","725 4th St","","Santa Rosa","CA","95404"
-"287","Russian River Brewing Company","Supplication","725 4th St","","Santa Rosa","CA","95404"
-"288","Russian River Brewing Company","Blind Pig IPA","725 4th St","","Santa Rosa","CA","95404"
-"289","Russian River Brewing Company","Pliny The Elder","725 4th St","","Santa Rosa","CA","95404"
-"290","Russian River Brewing Company","Temptation","725 4th St","","Santa Rosa","CA","95404"
-"291","Sante Adairius Rustic Ales","Saison Bernice","103 Kennedy Dr","","Capitola","CA","95010"
-"292","Sante Adairius Rustic Ales","Westly","103 Kennedy Dr","","Capitola","CA","95010"
-"293","Sante Adairius Rustic Ales","West Ashley","103 Kennedy Dr","","Capitola","CA","95010"
-"294","Side Project Brewing","Framboise Du Fermier","7373 Marietta Ave","","Maplewood","MI","63143"
-"295","Side Project Brewing","Derivation #6 (Cinnamon, Cocoa Nibs And Ugandan Vanilla)","7373 Marietta Ave","","Maplewood","MI","63143"
-"296","Side Project Brewing","2 Candles","7373 Marietta Ave","","Maplewood","MI","63143"
-"297","Side Project Brewing","Fuzzy","7373 Marietta Ave","","Maplewood","MI","63143"
-"298","Side Project Brewing","Derivation Blend #1 (Maple Syrup Bourbon Barrel)","7373 Marietta Ave","","Maplewood","MI","63143"
-"299","Side Project Brewing","Saison Du Fermier","7373 Marietta Ave","","Maplewood","MI","63143"
-"300","SingleCut Beersmiths","Softly Spoken Magic Spells","19-33 37th St","","Queens","NY","11105"
-"301","Societe Brewing Co.","The Pupil",NA,NA,NA,NA,NA
-"302","Societe Brewing Company","The Pupil","8262 Clairemont Mesa Blvd","","San Diego","CA","92111"
-"303","Stillwater Artisanal Ales","Stillwater / Westbrook Gose Gone Wild",NA,NA,NA,NA,NA
-"304","Stone Brewing","Stone Enjoy By IPA","1999 Citracado Parkway","","Escondido","CA","92029"
-"305","Stone Brewing","Stone Imperial Russian Stout","1999 Citracado Parkway","","Escondido","CA","92029"
-"306","Stone Brewing","Stone Enjoy By Unfiltered IPA","1999 Citracado Parkway","","Escondido","CA","92029"
-"307","Stone Brewing","Imperial Russian Stout - Bourbon Barrel Aged","1999 Citracado Parkway","","Escondido","CA","92029"
-"308","Stone Brewing Co.","Imperial Russian Stout - Bourbon Barrel Aged",NA,NA,NA,NA,NA
-"309","Stone Brewing Co.","Stone Xocoveza For The Holidays & The New Year",NA,NA,NA,NA,NA
-"310","Stone Brewing Co.","Stone Imperial Russian Stout",NA,NA,NA,NA,NA
-"311","Stone Brewing Co.","Stone Enjoy By IPA",NA,NA,NA,NA,NA
-"312","Stone Brewing Company","Stone Enjoy By Unfiltered IPA",NA,NA,NA,NA,NA
-"313","Stone Brewing Company","Stone Imperial Russian Stout",NA,NA,NA,NA,NA
-"314","Stone Brewing Company","Stone Enjoy By IPA",NA,NA,NA,NA,NA
-"315","Stone Brewing Company","Imperial Russian Stout - Bourbon Barrel Aged",NA,NA,NA,NA,NA
-"316","Stone Brewing Company","Stone Xocoveza For The Holidays & The New Year",NA,NA,NA,NA,NA
-"317","Surly Brewing Company","Todd The Axe Man","4811 Dusharme Dr","","Brooklyn Center","MN","55429"
-"318","Surly Brewing Company","Darkness - High West Rye Whiskey Barrel Aged (2015)","4811 Dusharme Dr","","Brooklyn Center","MN","55429"
-"319","Surly Brewing Company","Abrasive Ale","4811 Dusharme Dr","","Brooklyn Center","MN","55429"
-"320","Surly Brewing Company","Darkness","4811 Dusharme Dr","","Brooklyn Center","MN","55429"
-"321","Surly Brewing Company","Furious","4811 Dusharme Dr","","Brooklyn Center","MN","55429"
-"322","The Alchemist","Luscious","35 Crossroad","","Waterbury","VT","5676"
-"323","The Alchemist","Crusher","35 Crossroad","","Waterbury","VT","5676"
-"324","The Alchemist","Focal Banger","35 Crossroad","","Waterbury","VT","5676"
-"325","The Alchemist","Heady Topper","35 Crossroad","","Waterbury","VT","5676"
-"326","The Bruery","Black Tuesday","715 Dunn Way","","Placentia","CA","92870"
-"327","The Bruery","Black Tuesday - Reserve","715 Dunn Way","","Placentia","CA","92870"
-"328","The Bruery","Mocha Wednesday","715 Dunn Way","","Placentia","CA","92870"
-"329","The Bruery","Chocolate Rain","715 Dunn Way","","Placentia","CA","92870"
-"330","The Bruery","Melange No. 3","715 Dunn Way","","Placentia","CA","92870"
-"331","The Bruery","Grey Monday","715 Dunn Way","","Placentia","CA","92870"
-"332","The Lone Pint Brewery","Yellow Rose","507 Commerce St","","Magnolia","TX","77355"
-"333","The Lost Abbey","Box Set Track #10 - Bat Out Of Hell","155 Mata Way #104","","San Marcos","CA","92069"
-"334","The Lost Abbey","Cable Car","155 Mata Way #104","","San Marcos","CA","92069"
-"335","The Lost Abbey","Duck Duck Gooze","155 Mata Way #104","","San Marcos","CA","92069"
-"336","Thirsty Dog Brewing Company","Wulver",NA,NA,NA,NA,NA
-"337","Three Floyds Brewing Company","Bourbon Barrel Aged Dark Lord Imperial Stout","9750 Indiana Pkwy","","Munster","IN","46321"
-"338","Three Floyds Brewing Company","French Vanilla Militia","9750 Indiana Pkwy","","Munster","IN","46321"
-"339","Three Floyds Brewing Company","Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord)","9750 Indiana Pkwy","","Munster","IN","46321"
-"340","Three Floyds Brewing Company","Zombie Dust","9750 Indiana Pkwy","","Munster","IN","46321"
-"341","Three Floyds Brewing Company","Permanent Funeral","9750 Indiana Pkwy","","Munster","IN","46321"
-"342","Three Floyds Brewing Company","Bourbon Barrel Aged Vanilla Bean Dark Lord","9750 Indiana Pkwy","","Munster","IN","46321"
-"343","Three Floyds Brewing Company","Dreadnaught IPA","9750 Indiana Pkwy","","Munster","IN","46321"
-"344","Toppling Goliath Brewing Company","Kentucky Brunch Brand Stout","310 College Dr","","Decorah","IO","52101"
-"345","Toppling Goliath Brewing Company","SR-71 Blackbird (2015)","310 College Dr","","Decorah","IO","52101"
-"346","Toppling Goliath Brewing Company","PseudoSue","310 College Dr","","Decorah","IO","52101"
-"347","Toppling Goliath Brewing Company","Double Dry Hopped PseudoSue (Citra)","310 College Dr","","Decorah","IO","52101"
-"348","Toppling Goliath Brewing Company","Mornin' Delight","310 College Dr","","Decorah","IO","52101"
-"349","Toppling Goliath Brewing Company","King Sue","310 College Dr","","Decorah","IO","52101"
-"350","Toppling Goliath Brewing Company","XHOPS (Gold Label)","310 College Dr","","Decorah","IO","52101"
-"351","Toppling Goliath Brewing Company","Sosus","310 College Dr","","Decorah","IO","52101"
-"352","Toppling Goliath Brewing Company","Assassin Imperial Stout","310 College Dr","","Decorah","IO","52101"
-"353","Tr?egs Brewing Company","Tr?egs Nugget Nectar",NA,NA,NA,NA,NA
-"354","Tr”egs Brewing Company","Tr”egs Nugget Nectar",NA,NA,NA,NA,NA
-"355","Tree House Brewing Company","King Julius","160 E Hill Rd","","Monson","MA","1057"
-"356","Tree House Brewing Company","Julius","160 E Hill Rd","","Monson","MA","1057"
-"357","Tree House Brewing Company","Haze","160 E Hill Rd","","Monson","MA","1057"
-"358","Tree House Brewing Company","Green","160 E Hill Rd","","Monson","MA","1057"
-"359","Tree House Brewing Company","Good Morning","160 E Hill Rd","","Monson","MA","1057"
-"360","Tree House Brewing Company","Alter Ego","160 E Hill Rd","","Monson","MA","1057"
-"361","Tree House Brewing Company","Juice Machine","160 E Hill Rd","","Monson","MA","1057"
-"362","Tree House Brewing Company","Very Green","160 E Hill Rd","","Monson","MA","1057"
-"363","Tree House Brewing Company","Very Hazy","160 E Hill Rd","","Monson","MA","1057"
-"364","Tree House Brewing Company","Doppelganger","160 E Hill Rd","","Monson","MA","1057"
-"365","Tree House Brewing Company","Triple Shot","160 E Hill Rd","","Monson","MA","1057"
-"366","Tree House Brewing Company","JJJuliusss","160 E Hill Rd","","Monson","MA","1057"
-"367","Tree House Brewing Company","King JJJuliusss","160 E Hill Rd","","Monson","MA","1057"
-"368","Tree House Brewing Company","Curiosity Twenty Seven","160 E Hill Rd","","Monson","MA","1057"
-"369","Tree House Brewing Company","Doubleganger","160 E Hill Rd","","Monson","MA","1057"
-"370","Tree House Brewing Company","Double Shot- Batch 500","160 E Hill Rd","","Monson","MA","1057"
-"371","Tree House Brewing Company","Curiosity Twenty Two","160 E Hill Rd","","Monson","MA","1057"
-"372","Tree House Brewing Company","Double Shot - Sumatra Mandheling","160 E Hill Rd","","Monson","MA","1057"
-"373","Tree House Brewing Company","Double Shot","160 E Hill Rd","","Monson","MA","1057"
-"374","Tree House Brewing Company","In Perpetuity","160 E Hill Rd","","Monson","MA","1057"
-"375","Trillium Brewing Company","Artaic","369 Congress St","","Boston","MA","2210"
-"376","Trillium Brewing Company","Fort Point Pale Ale","369 Congress St","","Boston","MA","2210"
-"377","Trillium Brewing Company","Double Dry Hopped Congress Street","369 Congress St","","Boston","MA","2210"
-"378","Trillium Brewing Company","Congress Street IPA","369 Congress St","","Boston","MA","2210"
-"379","Trillium Brewing Company","Mosaic Dry Hopped Fort Point","369 Congress St","","Boston","MA","2210"
-"380","Trillium Brewing Company","Vicinity","369 Congress St","","Boston","MA","2210"
-"381","Trillium Brewing Company","Double Dry Hopped Sleeper Street IPA","369 Congress St","","Boston","MA","2210"
-"382","Trillium Brewing Company","Headroom Double IPA","369 Congress St","","Boston","MA","2210"
-"383","Trillium Brewing Company","Heavy Mettle","369 Congress St","","Boston","MA","2210"
-"384","Trillium Brewing Company","Scaled Up","369 Congress St","","Boston","MA","2210"
-"385","Trillium Brewing Company","Galaxy Dry Hopped Fort Point Pale Ale","369 Congress St","","Boston","MA","2210"
-"386","Trillium Brewing Company","Double Dry Hopped Fort Point Pale Ale","369 Congress St","","Boston","MA","2210"
-"387","Trillium Brewing Company","Upper Case","369 Congress St","","Boston","MA","2210"
-"388","Trillium Brewing Company","Double Dry Hopped Scaled","369 Congress St","","Boston","MA","2210"
-"389","Trillium Brewing Company","Cutting Tiles","369 Congress St","","Boston","MA","2210"
-"390","Trillium Brewing Company","Dusk Trill Dawn","369 Congress St","","Boston","MA","2210"
-"391","Trillium Brewing Company","Dialed In (w/ Sauvignon Blanc Juice)","369 Congress St","","Boston","MA","2210"
-"392","Trillium Brewing Company","Headroom","369 Congress St","","Boston","MA","2210"
-"393","Trillium Brewing Company","Double Dry Hopped Sleeper Street","369 Congress St","","Boston","MA","2210"
-"394","Trillium Brewing Company","Cutting Tiles (Mosaic)","369 Congress St","","Boston","MA","2210"
-"395","Trillium Brewing Company","Melcher Street IPA","369 Congress St","","Boston","MA","2210"
-"396","Trillium Brewing Company","Dialed In","369 Congress St","","Boston","MA","2210"
-"397","Trillium Brewing Company","Double Dry Hopped Melcher Street","369 Congress St","","Boston","MA","2210"
-"398","Trillium Brewing Company","Scaled Way Up","369 Congress St","","Boston","MA","2210"
-"399","Unibroue","La Fin Du Monde",NA,NA,NA,NA,NA
-"400","Voodoo Brewing Company","ManBearPig","215 Arch St","","Meadville","PA","16335"
-"401","Voodoo Brewing Company","Grande Negro Voodoo Papi - Bourbon Barrel Aged","215 Arch St","","Meadville","PA","16335"
-"402","Weisses Br?uhaus G. Schneider & Sohn GmbH","Schneider Weisse Tap 6 Unser Aventinus",NA,NA,NA,NA,NA
-"403","Weisses Br„uhaus G. Schneider & Sohn GmbH","Schneider Weisse Tap 6 Unser Aventinus",NA,NA,NA,NA,NA
-"404","Westbrook Brewing Co.","Mexican Cake",NA,NA,NA,NA,NA
-"405","Westbrook Brewing Company","Mexican Cake","510 Ridge Rd","","Mount Pleasant","NC","29464"
-"406","Willoughby Brewing","Nut Smasher","4057 Erie Street","","Willoughby","OH","44094"
+"","Brewery","Beer","Street","Street2","City","State","Zip","Latitude","Longitude"
+"1","3 Floyds Brewing Company","Bourbon Barrel Aged Dark Lord Imperial Stout","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"2","3 Floyds Brewing Company","Permanent Funeral","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"3","3 Floyds Brewing Company","French Vanilla Militia","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"4","3 Floyds Brewing Company","Zombie Dust","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"5","3 Floyds Brewing Company","Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord)","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"6","3 Floyds Brewing Company","Dreadnaught IPA","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"7","3 Floyds Brewing Company","3 Floyds / The Bruery - Rue D'Floyd","9750 Indiana Pkwy","","Munster","IN","46321","41.5353502",-87.5165134
+"8","4 Hands Brewing Company","Madagascar","1220 S 8th St","","St. Louis","MO","63104","38.61512727",-90.19651874
+"9","AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee","9990 AleSmith Ct","","San Diego","CA","92126","32.888186",-117.1498484
+"10","AleSmith Brewing Company","AleSmith Speedway Stout","9990 AleSmith Ct","","San Diego","CA","92126","32.888186",-117.1498484
+"11","AleSmith Brewing Company","AleSmith Speedway Stout - Kopi Luwak","9990 AleSmith Ct","","San Diego","CA","92126","32.888186",-117.1498484
+"12","AleSmith Brewing Company","AleSmith Speedway Stout - Bourbon Barrel Aged","9990 AleSmith Ct","","San Diego","CA","92126","32.888186",-117.1498484
+"13","AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee (Bourbon Barrel Aged)","9990 AleSmith Ct","","San Diego","CA","92126","32.888186",-117.1498484
+"14","Allagash Brewing Company","Allagash Cuv?e D'Industrial","50 Industrial Way","","Portland","ME","4103","43.7031477",-70.3198819
+"15","Allagash Brewing Company","Allagash Coolship Red","50 Industrial Way","","Portland","ME","4103","43.7031477",-70.3198819
+"16","Alpine Beer Company","Hoppy Birthday","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"17","Alpine Beer Company","Duet","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"18","Alpine Beer Company","Pure Hoppiness","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"19","Alpine Beer Company","Bad Boy","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"20","Alpine Beer Company","Nelson","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"21","Alpine Beer Company","Exponential Hoppiness","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"22","Alpine Beer Company","Keene Idea","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"23","Alpine Beer Company","Great","2363 Alpine Blvd","","Alpine","CA","91901","38.61512727",-90.19651874
+"24","Anchorage Brewing Company","A Deal With The Devil","148 West 91st Ave?","","Anchorage","AK","99515","32.834679",-116.762684
+"25","Anchorage Brewing Company","Bitter Monk","148 West 91st Ave?","","Anchorage","AK","99515","32.834679",-116.762684
+"26","Aslin Beer Company","Master Of Karate","1330 N Forest St","","Bellingham","WA","98225","61.1385354",-149.8893299
+"27","Aslin Beer Company","Orange Starfish","1330 N Forest St","","Bellingham","WA","98225","61.1385354",-149.8893299
+"28","Aslin Beer Company","Mind The Hop","1330 N Forest St","","Bellingham","WA","98225","61.1385354",-149.8893299
+"29","Avery Brewing Company","Tweak","4910 Nautilus Ct","","Boulder","CO","80301","48.74801531",-122.4754509
+"30","Avery Brewing Company","Uncle Jacob's Stout","4910 Nautilus Ct","","Boulder","CO","80301","48.74801531",-122.4754509
+"31","Avery Brewing Company","Callipygian","4910 Nautilus Ct","","Boulder","CO","80301","48.74801531",-122.4754509
+"32","Ballast Point Brewing Company","Victory At Sea Coffee Vanilla Imperial Porter","9045 Carroll Way","","San Diego","CA","92121","32.88798083",-117.1587251
+"33","Ballast Point Brewing Company","Sculpin IPA","9045 Carroll Way","","San Diego","CA","92121","32.88798083",-117.1587251
+"34","Bayerische Staatsbrauerei Weihenstephan","Weihenstephaner Hefeweissbier","Alte Akademie 2","","Freising","Germany","85354","32.88798083",-117.1587251
+"35","Bell's Brewery, Inc.","Hopslam Ale","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007","42.2949875",-85.578566
+"36","Bell's Brewery, Inc.","Bell's Black Note Stout","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007","42.2949875",-85.578566
+"37","Bell's Brewery, Inc.","30th Anniversary Ale","355 E. KALAMAZOO?AVE.","","Kalamazoo","MI","49007","42.2949875",-85.578566
+"38","Bissell Brothers Brewing Company","Swish","4 THOMPSONS PT","STE 108-109","Portland","ME","4102","43.65408501",-70.28896092
+"39","Boneyard Beer Company","Hop Venom Double IPA","37 NW Lake Pl, Suite B","","Bend","OR","97701","43.65408501",-70.28896092
+"40","Boneyard Beer Company","Notorious Triple IPA","37 NW Lake Pl, Suite B","","Bend","OR","97701","43.65408501",-70.28896092
+"41","Boston Beer Company (Samuel Adams)","Samuel Adams Utopias","30 Germania St","","Jamaica Plain","MA","2130","42.31396936",-71.10232922
+"42","Bottle Logic Brewing","Ground State - 2nd Anniversary Beer","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"43","Bottle Logic Brewing","Leche Borracho","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"44","Bottle Logic Brewing","Space Trace","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"45","Bottle Logic Brewing","Ground State","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"46","Bottle Logic Brewing","Fundamental Observation","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"47","Bottle Logic Brewing","Darkstar November","1072 N Armando St","","Anaheim","CA","92806","33.84913581",-117.8598915
+"48","Brasserie Cantillon","Cantillon Saint Lamvinus","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"49","Brasserie Cantillon","Cantillon Fou' Foune","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"50","Brasserie Cantillon","Cantillon Lou Pepe - Kriek","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"51","Brasserie Cantillon","Cantillon Lou Pepe - Framboise","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"52","Brasserie Cantillon","Cantillon Gueuze 100% Lambic","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"53","Brasserie Cantillon","Cantillon Lou Pepe - Gueuze","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"54","Brasserie Cantillon","Cantillon Blåbær Lambik","Rue Gheude 56","","Brussels","Belgium","1070","33.84913581",-117.8598915
+"55","Brasserie de Rochefort","Trappistes Rochefort 10","Rue de l'Abbaye 8","","Rochefort","Belgium","5580","50.1782881,",5.2174297
+"56","Brasserie Dieu du Ciel!","Péché Mortel","29 Av Laurier O","","Montreal","QC","H2T 2N2","45.5227334,",-73.5956284
+"57","Brasserie Dieu du Ciel!","Péché Mortel En Fût De Bourbon Américain","29 Av Laurier O","","Montreal","QC","H2T 2N2","45.5227334,",-73.5956284
+"58","Brothers Craft Brewing","Resolute - Coconut","800 N Main St","","Harrisonburg","VA","22802","38.45757",-78.861099
+"59","Brouwerij 3 Fonteinen","Drie Fonteinen Oude Geuze Golden Blend","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"60","Brouwerij 3 Fonteinen","Drie Fonteinen Oude Geuze","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"61","Brouwerij 3 Fonteinen","Drie Fonteinen Zenne Y Frontera","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"62","Brouwerij 3 Fonteinen","Drie Fonteinen Hommage","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"63","Brouwerij 3 Fonteinen","Drie Fonteinen Framboos","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"64","Brouwerij 3 Fonteinen","Drie Fonteinen Oude Geuze Vintage","3 Herman Teirlinckplein","","Beersel","Belgium","1650","50.7648754,",4.2734747
+"65","Brouwerij Rodenbach N.V.","Rodenbach Caractère Rouge","Spanjestraat 133-141","","Roeselare","Belgium","8800","50.9460394,",3.1348165
+"66","Brouwerij Rodenbach N.V.","Alexander (2016)","Spanjestraat 133-141","","Roeselare","Belgium","8800","50.9460394,",3.1348165
+"67","Brouwerij Rodenbach N.V.","Alexander","Spanjestraat 133-141","","Roeselare","Belgium","8800","50.9460394,",3.1348165
+"68","Brouwerij St. Bernardus NV","St. Bernardus Abt 12","Trappistenweg 23","","Watou","Belgium","8978","50.8419221",2.638534421
+"69","Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 8 (VIII)","Donkerstraat 12","","Westvleteren","Belgium","8640","45.4870915",-122.7429931
+"70","Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 12 (XII)","Donkerstraat 12","","Westvleteren","Belgium","8640","45.4870915",-122.7429931
+"71","Buxton Brewery","Buxton / Omnipollo Yellow Belly","Staden Business Park","","Buxton","UK","SK17 9RZ","53.2459354",-1.8982394
+"72","Captain Lawrence Brewing Company","Cuvee De Castleton","444 Saw Mill River Rd","","Elmsford","NY","10523","41.0704017",-73.8167091
+"73","Cascade Brewing / Raccoon Lodge & Brewpub","Cascade Sang Noir","7424 SW Beaverton-Hillsdale Hwy","","Portland","OR","97225","45.4870915",-122.7429931
+"74","Central Waters Brewing Company","Black Gold (2015)","351 Allen St","","Amherst","WI","54406","44.4421815",-89.2819771
+"75","Central Waters Brewing Company","Seventeen","351 Allen St","","Amherst","WI","54406","44.4421815",-89.2819771
+"76","Cigar City Brewing","Hunahpu's Imperial Stout","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"77","Cigar City Brewing","Zhukov's Final Push","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"78","Cigar City Brewing","Decoherence","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"79","Cigar City Brewing","Marshal Zhukov's Imperial Stout - Apple Brandy Barrel Aged W/ Vanilla Beans","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"80","Cigar City Brewing","Hunahpu's Imperial Stout - Double Barrel Aged","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"81","Cigar City Brewing","Caffè Americano","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"82","Cigar City Brewing","Caffe Americano - Rum Barrel Aged","3924 W Spruce St","","Tampa","FL","33607","27.958895",-82.509196
+"83","Civil Society Brewing","Pulp","1200 Town Center Dr #101","","Jupiter","FL","33458","26.889558",-80.1169707
+"84","Clown Shoes","Breakfast Exorcism","23 Hayward St.","","Ipswich","MA","1938","27.958895",-82.509196
+"85","Columbus Brewing Company","Columbus Bodhi DIPA","2555 Harrison Rd","","Columbus","OH","43204","42.671798",-70.843505
+"86","Columbus Brewing Company","Columbus Bodhi","2555 Harrison Rd","","Columbus","OH","43204","42.671798",-70.843505
+"87","Creature Comforts","See The Stars","271 W Hancock Ave","","Athens","GA","30601","33.9589924",-83.3824793
+"88","Dark Horse Brewing Company","Dark Horse Bourbon Barrel Aged Plead The 5th","511 South Kalamazoo Street","","Marshall","MI","49068","39.96931561",-83.06672828
+"89","de Garde Brewing","Nectarine Premiere","6000 Blimp Blvd","","Tillamook","OR","97141","45.418664",-123.8018432
+"90","de Garde Brewing","The Broken Truck","6000 Blimp Blvd","","Tillamook","OR","97141","45.418664",-123.8018432
+"91","de Garde Brewing","The Peach","6000 Blimp Blvd","","Tillamook","OR","97141","45.418664",-123.8018432
+"92","de Garde Brewing","Imperial Apricot Bu Weisse","6000 Blimp Blvd","","Tillamook","OR","97141","45.418664",-123.8018432
+"93","De Struise Brouwers","Pannepot","Kasteelstraat 50","8640 Oostvleteren","","Belgium","","50.9318875",2.7354884
+"94","De Struise Brouwers","Black Damnation V - Double Black","Kasteelstraat 50","8640 Oostvleteren","","Belgium","","50.9318875",2.7354884
+"95","Deschutes Brewery","The Abyss (Rye Whiskey Barrel-Aged)","901 SW Simpson Ave","","Bend","OR","97702","45.418664",-123.8018432
+"96","Deschutes Brewery","The Abyss","901 SW Simpson Ave","","Bend","OR","97702","45.418664",-123.8018432
+"97","Deschutes Brewery","The Abyss","901 SW Simpson Ave","","Bend","OR","97702","44.7801883",-123.117885
+"98","Evil Twin Brewing","Evil Twin Imperial Biscotti Break","446 Kent Ave","Apt 14A","Brooklyn","NY","11249","44.04780638",-121.3246184
+"99","Evil Twin Brewing","Imperial Biscotti Break Bourbon Barrel Aged","446 Kent Ave","Apt 14A","Brooklyn","NY","11249","44.04780638",-121.3246184
+"100","Evil Twin Brewing","Evil Twin Double Barrel Jesus","446 Kent Ave","Apt 14A","Brooklyn","NY","11249","44.04780638",-121.3246184
+"101","Fat Head's Brewery & Saloon","Hop JuJu Imperial IPA","24581 Lorain Rd.","","North Olmstead","OH","44070","40.7088389",-73.969435
+"102","Fat Head's Brewery & Saloon","Fat Head's Head Hunter IPA","24581 Lorain Rd.","","North Olmstead","OH","44070","40.7088389",-73.969435
+"103","Fiddlehead Brewing Company","Mastermind","6305 Shelburne Rd","","Shelburne","VT","5482","44.3661445",-73.232595
+"104","Fiddlehead Brewing Company","Second Fiddle","6305 Shelburne Rd","","Shelburne","VT","5482","44.3661445",-73.232595
+"105","FiftyFifty Brewing Company","Imperial Eclipse Stout - Elijah Craig (12 Year)","11197 Brockway Rd","","Truckee","CA","96161","39.3214307",-120.1630273
+"106","Firestone Walker Brewing Company","§ucaba","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"107","Firestone Walker Brewing Company","Stickee Monkee","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"108","Firestone Walker Brewing Company","Parabajava","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"109","Firestone Walker Brewing Company","Bretta Ros‚","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"110","Firestone Walker Brewing Company","Parabola","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"111","Firestone Walker Brewing Company","Firestone 19 - Anniversary Ale","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"112","Firestone Walker Brewing Company","Bretta Rosé","1400 Ramada Drive","","Paso Robles","CA","93446","35.59647955",-120.6944042
+"113","Flossmoor Station Restaurant & Brewery","Bourbon Barrel Aged Hi-Fi Rye","1035 Sterling Ave","","Flossmoor","IL","60422","41.543227",-87.6808507
+"114","Foundation Brewing Company","Epiphany","1 Industrial Way?","","Portland","ME","4103","35.59647955",-120.6944042
+"115","Founders Brewing Company","Founders Breakfast Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503","42.958697",-85.673522
+"116","Founders Brewing Company","Founders Imperial Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503","42.958697",-85.673522
+"117","Founders Brewing Company","Founders CBS Imperial Stout","235 Grandville Ave SW","","Grand Rapids","MI","49503","42.958697",-85.673522
+"118","Founders Brewing Company","Founders KBS (Kentucky Breakfast Stout)","235 Grandville Ave SW","","Grand Rapids","MI","49503","42.958697",-85.673522
+"119","Founders Brewing Company","Founders CBS (Canadian Breakfast Stout)","235 Grandville Ave SW","","Grand Rapids","MI","49503","42.958697",-85.673522
+"120","Fremont Brewing Company","B-Bomb (Bourbon Abominable Winter Ale)","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"121","Fremont Brewing Company","Brew 1000 - Bourbon Barrel Aged","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"122","Fremont Brewing Company","Bourbon Abominable Winter Ale","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"123","Fremont Brewing Company","Bourbon Barrel Aged Dark Star: Coffee Edition","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"124","Fremont Brewing Company","The Rusty Nail","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"125","Fremont Brewing Company","Bourbon Barrel Aged Abominable: Coffee And Cinnamon","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"126","Fremont Brewing Company","Bourbon Barrel Aged Dark Star Oatmeal Stout","3409 Woodland Park Avenue North","","Seattle","WA","98103","43.7030253",-70.320296
+"127","Funky Buddha Brewery","Morning Wood","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"128","Funky Buddha Brewery","Maple Bacon Coffee Porter","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"129","Funky Buddha Brewery","Snowed In - Bourbon Barrel Aged","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"130","Funky Buddha Brewery","Last Buffalo In The Park","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"131","Funky Buddha Brewery","Last Snow","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"132","Funky Buddha Brewery","Wide Awake It's Morning","1201 NE 38th St","","Oakland Park","FL","33334","26.17417107",-80.13144566
+"133","Goose Island Beer Company","Bourbon County Brand Coffee Stout","1800 W Fulton St","","Chicago","IL","60612","47.64919175",-122.3444366
+"134","Goose Island Beer Company","Rare Bourbon County Brand Stout (2015)","1800 W Fulton St","","Chicago","IL","60612","47.64919175",-122.3444366
+"135","Goose Island Beer Company","Bourbon County Brand Stout","1800 W Fulton St","","Chicago","IL","60612","47.64919175",-122.3444366
+"136","Goose Island Beer Company","Bourbon County Brand Barleywine Ale","1800 W Fulton St","","Chicago","IL","60612","47.64919175",-122.3444366
+"137","Grassroots Brewing","Grassroots Brother Soign‚","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"138","Great Lakes Brewing Company","Great Lakes Barrel-Aged Blackout Stout","2516 Market Ave","","Cleveland","OH","44113","41.4843807",-81.7067074
+"139","Great Notion Brewing","Double Stack","2204 NE Alberta St","#101","Portland, ","OR","97211","45.5588904",-122.6426705
+"140","Great Notion Brewing","Double Stack","2204 NE Alberta St ","#101","Portland, ","OR ","97211","45.5588904",-122.6426705
+"141","Green Man Brewery","Snozzberry","27 Buxton Ave","","Asheville","NC","28801","35.5886669",-82.5523973
+"142","Green Man Brewery","Snozzberry","27 Buxton Ave","","Asheville ","NC","28801","35.5886669",-82.5523973
+"143","Grimm Artisanal Ales","Lumen","PO Box 150472","","Brooklyn","NY","11215","41.8869818",-87.6724
+"144","Grimm Artisanal Ales","Afterimage","PO Box 150472","","Brooklyn","NY","11215","41.8869818",-87.6724
+"145","Grimm Artisanal Ales","Tesseract","PO Box 150472","","Brooklyn","NY","11215","41.8869818",-87.6724
+"146","Grimm Artisanal Ales","Lambo Door","PO Box 150472","","Brooklyn","NY","11215","41.8869818",-87.6724
+"147","Grimm Artisanal Ales","Magnetic Compass","PO Box 150472","","Brooklyn","NY","11215","41.8869818",-87.6724
+"148","Hair of the Dog Brewing Company / Brewery and Tasting Room","Matt","61 SE Yamhill St","","Portland","OR","97214","34.0831712",-117.1419134
+"149","Hair of the Dog Brewing Company / Brewery and Tasting Room","Adam From The Wood","61 SE Yamhill St","","Portland","OR","97214","34.0831712",-117.1419134
+"150","Hangar 24 Brewery","Pugachev Royale","1710 Sessums Drive","","Redlands","CA","92374","45.5160413",-122.6655235
+"151","Hardywood Park Craft Brewery","Trickery","2410 Ownby Ln","","Richmond","VA","23220","40.22451332",-105.2676934
+"152","Hardywood Park Craft Brewery","Kentucky Christmas Morning","2410 Ownby Ln","","Richmond","VA","23220","40.22451332",-105.2676934
+"153","Haymarket Pub & Brewery","Clare's Thirsty Ale","737 W. Randolph","","Chicago","IL","60661","41.8841279",-87.6494349
+"154","Heist Brewery","Citraquench'l","2901 N Davidson St","","Charlotte","NC","28205","35.245171",-80.809082
+"155","Hill Farmstead Brewery","Ann","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"156","Hill Farmstead Brewery","Abner","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"157","Hill Farmstead Brewery","Double Citra","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"158","Hill Farmstead Brewery","Double Galaxy","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"159","Hill Farmstead Brewery","Society & Solitude #4","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"160","Hill Farmstead Brewery","Ephraim","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"161","Hill Farmstead Brewery","What Is Enlightenment?","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"162","Hill Farmstead Brewery","Damon (Bourbon Barrel Aged)","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"163","Hill Farmstead Brewery","Civil Disobedience #15","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"164","Hill Farmstead Brewery","Aaron","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"165","Hill Farmstead Brewery","Beyond Good And Evil","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"166","Hill Farmstead Brewery","Nelson Single Hop","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"167","Hill Farmstead Brewery","Citra Pale Ale","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"168","Hill Farmstead Brewery","Birth Of Tragedy","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"169","Hill Farmstead Brewery","Society & Solitude #5","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"170","Hill Farmstead Brewery","Edward","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"171","Hill Farmstead Brewery","Susan","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"172","Hill Farmstead Brewery","Clover","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"173","Hill Farmstead Brewery","Everett Porter","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"174","Hill Farmstead Brewery","Juicy","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"175","Hill Farmstead Brewery","Genealogy Of Morals (Bourbon Barrel Aged)","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"176","Hill Farmstead Brewery","Society & Solitude #6","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"177","Hill Farmstead Brewery","Flora Plum","403 Hill Rd","","Greensboro Bend","VT","5842","44.6068317",-72.2653128
+"178","Hoof Hearted Brewing","Dragonsaddle","300 County Rd 26","","Marengo","CO","43334","37.5634246",-77.4580699
+"179","J. Wakefield Brewing","Dragon Fruit Passion Fruit Berliner","120 NW 24th St","","Miami","FL","33127","25.7995463",-80.1975284
+"180","J. Wakefield Brewing","Miami Madness","120 NW 24th St","","Miami","FL","33127","25.7995463",-80.1975284
+"181","Jackie O's Pub & Brewery","Oro Negro","24 W Union St","","Athens","OH","45701","25.7995463",-80.1975284
+"182","Jackie O's Pub & Brewery","Bourbon Barrel Black Maple","24 W Union St","","Athens","OH","45701","25.7995463",-80.1975284
+"183","Jackie O's Pub & Brewery","Bourbon Barrel Oro Negro","24 W Union St","","Athens","OH","45701","25.7995463",-80.1975284
+"184","Jackie O's Pub & Brewery","Bourbon Barrel Champion Ground","24 W Union St","","Athens","OH","45701","25.7995463",-80.1975284
+"185","Jester King Brewery","Montmorency Vs Balaton","13005 Fitzhugh Road","Bld. B","Austin","TX","78736","40.2351985",-74.04515
+"186","Jester King Brewery","Sherry Barrel Atrial Rubicite","13005 Fitzhugh Road","Bld. B","Austin","TX","78736","40.2351985",-74.04515
+"187","Jester King Brewery","Atrial Rubicite","13005 Fitzhugh Road","Bld. B","Austin","TX","78736","40.2351985",-74.04515
+"188","Kane Brewing Company","Mexican Brunch","1750 Bloomsbury Ave","","Ocean","NJ","7712","39.32764514",-82.10223129
+"189","Kane Brewing Company","Sunday Brunch","1750 Bloomsbury Ave","","Ocean","NJ","7712","39.32764514",-82.10223129
+"190","Kane Brewing Company","A Night To End All Dawns","1750 Bloomsbury Ave","","Ocean","NJ","7712","39.32764514",-82.10223129
+"191","Kern River Brewing Company","Citra","13415 Sierra Way","","Kernville","CA","93238","35.7574666",-118.4214856
+"192","Kern River Brewing Company","Winter Ale (5th Anniversary Ale)","13415 Sierra Way","","Kernville","CA","93238","35.7574666",-118.4214856
+"193","Kern River Brewing Company","Citra Double IPA","13415 Sierra Way","","Kernville","CA","93238","35.7574666",-118.4214856
+"194","Kern River Brewing Company","Winter Ale / 5th Anniversary Ale","13415 Sierra Way","","Kernville","CA","93238","35.7574666",-118.4214856
+"195","Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Barley Wine","5919 Chicago Rd","","Warren","MI","48092","42.52771028",-83.04704389
+"196","Kuhnhenn Brewing Company","Kuhnhenn Raspberry Eisbock","5919 Chicago Rd","","Warren","MI","48092","42.52771028",-83.04704389
+"197","Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Fourth Dementia","5919 Chicago Rd","","Warren","MI","48092","42.52771028",-83.04704389
+"198","La Cumbre Brewing Company","Project Dank","3313 Girard Blvd NE","","Albuquerque","NM","87107","35.11789781",-106.6138649
+"199","La Cumbre Brewing Company","Elevated IPA","3313 Girard Blvd NE","","Albuquerque","NM","87107","35.11789781",-106.6138649
+"200","Lagunitas Brewing Company","ScareCity #3: High West-ified Imperial Coffee Stout","1280 N McDowell Blvd","","Petaluma","CA","94954","38.27264795",-122.6619197
+"201","Lagunitas Brewing Company","Lagunitas Sucks (Brown Shugga Substitute Ale)","1280 N McDowell Blvd","","Petaluma","CA","94954","38.27264795",-122.6619197
+"202","Lagunitas Brewing Company","Born Yesterday Pale Ale","1280 N McDowell Blvd","","Petaluma","CA","94954","38.27264795",-122.6619197
+"203","Lagunitas Brewing Company","High West-ified Imperial Coffee Stout","1280 N McDowell Blvd","","Petaluma","CA","94954","38.27264795",-122.6619197
+"386","Lagunitas Brewing Company","Born Yesterday APA","1280 N McDowell Blvd","","Petaluma","CA","94954","38.27264795",-122.6619197
+"204","Lawson's Finest Liquids","Double Sunshine IPA","Not Open to Public","","Warren","VT","5674","44.1143066",-73.1359318
+"205","Lawson's Finest Liquids","Triple Sunshine IPA","Not Open to Public","","Warren","VT","5674","44.1143066",-73.1359318
+"206","Lawson's Finest Liquids","Sip Of Sunshine","Not Open to Public","","Warren","VT","5674","44.1143066",-73.1359318
+"207","Lift Bridge Brewery","Barrel-Aged Silhouette","1900 Tower Dr W","","Stillwater","MN","55082","45.0391054",-92.8317848
+"208","Live Oak Brewing Company","Live Oak HefeWeizen","1615 Crozier Ln","","Del Valle","TX","78617","45.0391054",-92.8317848
+"209","Logsdon Farmhouse Ales","Peche 'n Brett","4785 Booth Hill Rd","","Hood River","OR","97031","30.221009",-97.660539
+"210","Maine Beer Company","Dinner","525 US Route 1","","Freeport","ME","4032","45.587153",-121.537576
+"211","Maine Beer Company","Lunch","525 US Route 1","","Freeport","ME","4032","45.587153",-121.537576
+"212","Midnight Sun Brewing Company","Sloth - Belgian-Style Imperial Stout","8111 Dimond Hook Dr","","Anchorage","AK","99507","61.1471249",-149.8445465
+"213","Midnight Sun Brewing Company","Arctic Devil Barley Wine","8111 Dimond Hook Dr","","Anchorage","AK","99507","61.1471249",-149.8445465
+"214","Mikkeller ApS","Beer Geek Brunch Weasel","Humletorvet 27, 3 sal","","Copenhagen","Denmark","0","40.682535",-76.19847
+"215","Mikkeller ApS","Beer Geek Vanilla Shake (Bourbon Edition)","Humletorvet 27, 3 sal","","Copenhagen","Denmark","0","40.682535",-76.19847
+"216","Minneapolis Town Hall Brewery","Masala Mama India Pale Ale","1430 Washington Ave S","","Minneapolis","MN","55454","44.9733314",-93.247714
+"217","Minneapolis Town Hall Brewery","Three Hour Tour","1430 Washington Ave S","","Minneapolis","MN","55454","44.9733314",-93.247714
+"218","Modern Times Beer","Monsters Park - Bourbon Barrel Aged With Coconut And Cacao Nibs","3725 Greenwood St","","San Diego","CA","92110","44.9733314",-93.247714
+"219","New England Brewing Company","Coriolis","175 Amity Rd","","Woodbridge","CT","6525","32.754233",-117.206153
+"220","New England Brewing Company","Fuzzy Baby Ducks IPA","175 Amity Rd","","Woodbridge","CT","6525","32.754233",-117.206153
+"221","New England Brewing Company","Locust Reign","175 Amity Rd","","Woodbridge","CT","6525","32.754233",-117.206153
+"222","New Glarus Brewing Company","Raspberry Tart","2400 Hwy 69","","New Glarus","WA","53574","41.33934991",-72.98083608
+"223","New Glarus Brewing Company","Wisconsin Belgian Red","2400 Hwy 69","","New Glarus","WA","53574","41.33934991",-72.98083608
+"224","New Glarus Brewing Company","R&D Vintage 2014","2400 Hwy 69","","New Glarus","WA","53574","41.33934991",-72.98083608
+"225","New Glarus Brewing Company","Serendipity","2400 Hwy 69","","New Glarus","WA","53574","41.33934991",-72.98083608
+"226","Noble Ale Works","Citra Showers","1621 S Sinclair St","","Anaheim","CA","92806","33.80929616",-117.8803057
+"227","North Coast Brewing Company","Old Stock Cellar Reserve (Aged In Bourbon Barrels)","455 N Main St","","Fort Bragg","CA","95437","39.4480214",-123.8059045
+"228","Odd Side Ales","Hipster Brunch Stout","41 Washington Ave #160","","Grand Haven","MI","49417","43.0649497",-86.2348668
+"229","Olde Hickory Brewery","The Event Horizon","2 Third Street SW","","Hickory","NC","28602","35.7312007",-81.3444506
+"230","Olde Hickory Brewery","Omega Point","2 Third Street SW","","Hickory","NC","28602","35.7312007",-81.3444506
+"231","Oskar Blues Grill & Brew","Ten Fidy-Bourbon Barrel Aged 2015","303 Main St","","Lyons","CO","80540","40.22451332",-105.2676934
+"232","Oskar Blues Grill & Brew","Ten FIDY","303 Main St","","Lyons","CO","80540","40.22451332",-105.2676934
+"233","Oskar Blues Grill & Brew","Ten FIDY Bourbon Barrel Aged","303 Main St","","Lyons","CO","80540","40.22451332",-105.2676934
+"234","Other Half Brewing Company","3rd Anniversary Imperial IPA","195 Centre St","","Brooklyn","NY","11231","40.673855",-73.99908
+"235","Other Half Brewing Company","Double Dry Hopped Double Mosaic Dream","195 Centre St","","Brooklyn","NY","11231","40.673855",-73.99908
+"236","Other Half Brewing Company","All Green Everything","195 Centre St","","Brooklyn","NY","11231","40.673855",-73.99908
+"237","Other Half Brewing Company","Mosaic IPA","195 Centre St","","Brooklyn","NY","11231","40.673855",-73.99908
+"387","Other Half Brewing Company","Double Dry Hopped Mylar Bags","195 Centre St","","Brooklyn","NY","11231","40.673855",-73.99908
+"238","Ozark Beer Company","BDCS","1700 S 1st St","","Rogers","AR","72756","36.3168272",-94.1178372
+"239","Parish Brewing Company","Ghost In The Machine","229 Jared Dr","","Broussard","LA","70518","30.159067",-91.951422
+"240","Peg's Cantina & Brew Pub","Peg's G.O.O.D. RareR D.O.S.","Closed","","","","0","47.0525739",-122.2942229
+"241","Peg's Cantina & Brew Pub","Pallet 1","Closed","","","","0","47.0525739",-122.2942229
+"242","Peg's Cantina & Brew Pub","Trademark Dispute: Pallet 1","Closed","","","","0","47.0525739",-122.2942229
+"243","Peg's Cantina & Brew Pub","Trademark Dispute: &+","Closed","","","","0","47.0525739",-122.2942229
+"244","Peg's Cantina & Brew Pub","Trademark Dispute: Nooner 10","Closed","","","","0","47.0525739",-122.2942229
+"245","Peg's Cantina & Brew Pub","&+","Closed","","","","0","47.0525739",-122.2942229
+"246","Peg's Cantina & Brew Pub","Crank IPA","Closed","","","","0","47.0525739",-122.2942229
+"247","Peg's Cantina & Brew Pub","Hazelnut","Closed","","","","0","47.0525739",-122.2942229
+"248","Peg's Cantina & Brew Pub","Trademark Dispute: Hazelnut","Closed","","","","0","47.0525739",-122.2942229
+"249","Peg's Cantina & Brew Pub","Nooner Batch 10","Closed","","","","0","47.0525739",-122.2942229
+"250","Peg's Cantina & Brew Pub","Rare Scooop","Closed","","","","0","47.0525739",-122.2942229
+"390","Peg's Cantina & Brew Pub","Rare DOS","Closed","","","","0","47.0525739",-122.2942229
+"251","Pelican Pub & Brewery","Mother Of All Storms","33180 Cape Kiwanda Dr.","","Pacific City","OR","97135","45.21550758",-123.9695719
+"252","Perennial Artisan Ales","Abraxas","8125 Michigan Ave","","Saint Louis","MI","63111","38.5529585",-90.256699
+"253","Perennial Artisan Ales","Coffee Abraxas","8125 Michigan Ave","","Saint Louis","MI","63111","38.5529585",-90.256699
+"254","Perennial Artisan Ales","Barrel-Aged Abraxas","8125 Michigan Ave","","Saint Louis","MI","63111","38.5529585",-90.256699
+"255","Perrin Brewery","No Rules","5910 Comstock Park Dr NW","","Comstock Park","MI","49321","43.0713315",-85.6836078
+"256","Pipeworks Brewing Company","Sure Bet","3912 W McLean Ave","","Chicago","IL","60647","41.9181739",-87.72612963
+"257","Pipeworks Brewing Company","Spotted Puffer","3912 W McLean Ave","","Chicago","IL","60647","41.9181739",-87.72612963
+"258","Pipeworks Brewing Company","Crimson Snapper","3912 W McLean Ave","","Chicago","IL","60647","41.9181739",-87.72612963
+"259","Pipeworks Brewing Company","Pipeworks / 4 Hands Square Grouper","3912 W McLean Ave","","Chicago","IL","60647","41.9181739",-87.72612963
+"260","Pipeworks Brewing Company","Pipeworks / 4 Hands Emerald Grouper","3912 W McLean Ave","","Chicago","IL","60647","41.9181739",-87.72612963
+"261","Port Brewing","Older Viscosity","155 Mata Way #104","","San Marcos","CA","92069","33.1416499",-117.1514779
+"262","Prairie Artisan Ales","Prairie Pirate Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"263","Prairie Artisan Ales","BOMB!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"264","Prairie Artisan Ales","Pirate Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"265","Prairie Artisan Ales","Barrel Aged Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"266","Prairie Artisan Ales","Prairie Apple Brandy Noir","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"267","Prairie Artisan Ales","Birthday Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"268","Prairie Artisan Ales","Prairie Barrel Aged Bomb! (Fred's Blend)","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"385","Prairie Artisan Ales","Bomb!","1803 S 49th West Ave","","Tulsa","OK","74107","41.9181739",-87.72612963
+"269","Privatbrauerei Franz Inselkammer KG / Brauerei Aying","Ayinger Celebrator Doppelbock","Münchener Str. 21","","Aying","Germany","85653","47.972043",11.7719123
+"270","Russian River Brewing Company","Blind Pig IPA","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"271","Russian River Brewing Company","Compunction","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"272","Russian River Brewing Company","Beatification","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"273","Russian River Brewing Company","Pliny The Elder","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"274","Russian River Brewing Company","Supplication","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"275","Russian River Brewing Company","Temptation","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"276","Russian River Brewing Company","Consecration","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"277","Russian River Brewing Company","Pliny The Younger","725 4th St","","Santa Rosa","CA","95404","36.13683008",-96.04715201
+"278","Sante Adairius Rustic Ales","West Ashley","103 Kennedy Dr","","Capitola","CA","95010","38.44148971",-122.7119479
+"279","Sante Adairius Rustic Ales","Saison Bernice","103 Kennedy Dr","","Capitola","CA","95010","38.44148971",-122.7119479
+"280","Sante Adairius Rustic Ales","Westly","103 Kennedy Dr","","Capitola","CA","95010","38.44148971",-122.7119479
+"281","Sante Adairius Rustic Ales","Sante Adairius / Triple Rock Cellarman Barrel Aged Saison","103 Kennedy Dr","","Capitola","CA","95010","38.44148971",-122.7119479
+"282","Side Project Brewing","Fuzzy","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"283","Side Project Brewing","Derivation Blend #1 (Maple Syrup Bourbon Barrel)","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"284","Side Project Brewing","2 Candles","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"285","Side Project Brewing","Black & Wild","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"286","Side Project Brewing","Derivation #6 (Cinnamon, Cocoa Nibs And Ugandan Vanilla)","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"287","Side Project Brewing","Saison Du Fermier","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"288","Side Project Brewing","Framboise Du Fermier","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"289","Side Project Brewing","Abricot Du Fermier","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"388","Side Project Brewing","Oude Fermier","7373 Marietta Ave","","Maplewood","MI","63143","36.9822865",-121.9405747
+"290","SingleCut Beersmiths","Softly Spoken Magic Spells","19-33 37th St","","Queens","NY","11105","38.6120101",-90.31941177
+"291","Societe Brewing Company","The Pupil","8262 Clairemont Mesa Blvd","","San Diego","CA","92111","40.77829555",-73.90167146
+"292","Stillwater Artisanal Ales","Stillwater / Westbrook Gose Gone Wild","1028 S Conkling St","","Baltimore","MD","21224","39.2807461",-76.5691672
+"293","Stone Brewing","Imperial Russian Stout - Bourbon Barrel Aged","1999 Citracado Parkway","","Escondido","CA","92029","33.11594475",-117.1199645
+"294","Stone Brewing","Stone Enjoy By IPA","1999 Citracado Parkway","","Escondido","CA","92029","33.11594475",-117.1199645
+"295","Stone Brewing","Stone Imperial Russian Stout","1999 Citracado Parkway","","Escondido","CA","92029","33.11594475",-117.1199645
+"296","Stone Brewing","Stone Xocoveza For The Holidays & The New Year","1999 Citracado Parkway","","Escondido","CA","92029","33.11594475",-117.1199645
+"297","Stone Brewing","Stone Enjoy By Unfiltered IPA","1999 Citracado Parkway","","Escondido","CA","92029","33.11594475",-117.1199645
+"298","Surly Brewing Company","Darkness","4811 Dusharme Dr","","Brooklyn Center","MN","55429","45.04294225",-93.32438933
+"299","Surly Brewing Company","Furious","4811 Dusharme Dr","","Brooklyn Center","MN","55429","45.04294225",-93.32438933
+"300","Surly Brewing Company","Todd The Axe Man","4811 Dusharme Dr","","Brooklyn Center","MN","55429","45.04294225",-93.32438933
+"301","Surly Brewing Company","Abrasive Ale","4811 Dusharme Dr","","Brooklyn Center","MN","55429","45.04294225",-93.32438933
+"302","Surly Brewing Company","Darkness - High West Rye Whiskey Barrel Aged (2015)","4811 Dusharme Dr","","Brooklyn Center","MN","55429","45.04294225",-93.32438933
+"303","The Alchemist","Focal Banger","35 Crossroad","","Waterbury","VT","5676","32.83283939",-117.1499567
+"304","The Alchemist","Luscious","35 Crossroad","","Waterbury","VT","5676","32.83283939",-117.1499567
+"305","The Alchemist","Heady Topper","35 Crossroad","","Waterbury","VT","5676","32.83283939",-117.1499567
+"306","The Alchemist","Crusher","35 Crossroad","","Waterbury","VT","5676","32.83283939",-117.1499567
+"383","The Alchemist Brewery and Visitors Center","Crusher","100 Cottage Club Rd","","Stowe","VT","5672","44.4762604",-72.7166371
+"384","The Alchemist Brewery and Visitors Center","Focal Banger","100 Cottage Club Rd","","Stowe","VT","5672","44.4762604",-72.7166371
+"389","The Alchemist Brewery and Visitors Center","Luscious","100 Cottage Club Rd","","Stowe","VT","5672","44.4762604",-72.7166371
+"307","The Bruery","Chocolate Rain","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"308","The Bruery","Grey Monday","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"309","The Bruery","Mocha Wednesday","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"310","The Bruery","Black Tuesday - Reserve","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"311","The Bruery","Black Tuesday","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"312","The Bruery","Melange No. 3","715 Dunn Way","","Placentia","CA","92870","33.8612257",-117.8801465
+"313","The Lone Pint Brewery","Yellow Rose","507 Commerce St","","Magnolia","TX","77355","33.8612257",-117.8801465
+"314","The Lost Abbey","Duck Duck Gooze","155 Mata Way #104","","San Marcos","CA","92069","30.20898494",-95.75217492
+"315","The Lost Abbey","Box Set Track #10 - Bat Out Of Hell","155 Mata Way #104","","San Marcos","CA","92069","30.20898494",-95.75217492
+"316","The Lost Abbey","Cable Car","155 Mata Way #104","","San Marcos","CA","92069","30.20898494",-95.75217492
+"317","Thirsty Dog Brewing Company","Wulver","529 Grant St","","Akron","OH","44311","41.0689201",-81.5198163
+"318","Toppling Goliath Brewing Company","Kentucky Brunch Brand Stout","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"319","Toppling Goliath Brewing Company","King Sue","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"320","Toppling Goliath Brewing Company","SR-71 Blackbird (2015)","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"321","Toppling Goliath Brewing Company","Mornin' Delight","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"322","Toppling Goliath Brewing Company","Assassin Imperial Stout","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"323","Toppling Goliath Brewing Company","PseudoSue","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"324","Toppling Goliath Brewing Company","Double Dry Hopped PseudoSue (Citra)","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"325","Toppling Goliath Brewing Company","Sosus","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"326","Toppling Goliath Brewing Company","HOPSMACK!","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"327","Toppling Goliath Brewing Company","XHOPS (Gold Label)","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"328","Toppling Goliath Brewing Company","Double Dry Hop PseudoSue (Citra)","310 College Dr","","Decorah","IO","52101","41.5353502",-87.5165134
+"329","Tr”egs Brewing Company","Tr”egs Nugget Nectar","200 Hersheypark Dr","","Hershey","PA","17033","40.2973443",-76.644943
+"330","Tree House Brewing Company","Good Morning","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"331","Tree House Brewing Company","King Julius","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"332","Tree House Brewing Company","Green","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"333","Tree House Brewing Company","In Perpetuity","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"334","Tree House Brewing Company","Julius","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"335","Tree House Brewing Company","Haze","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"336","Tree House Brewing Company","Curiosity Twenty Two","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"337","Tree House Brewing Company","Double Shot - Sumatra Mandheling","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"338","Tree House Brewing Company","Alter Ego","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"339","Tree House Brewing Company","Juice Machine","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"340","Tree House Brewing Company","Very Green","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"341","Tree House Brewing Company","Very Hazy","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"342","Tree House Brewing Company","Doppelganger","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"343","Tree House Brewing Company","Triple Shot","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"344","Tree House Brewing Company","JJJuliusss","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"345","Tree House Brewing Company","King JJJuliusss","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"346","Tree House Brewing Company","Curiosity Twenty Seven","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"347","Tree House Brewing Company","Doubleganger","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"348","Tree House Brewing Company","Double Shot- Batch 500","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"349","Tree House Brewing Company","Double Shot - Costa Rica Montes De Oro","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"350","Tree House Brewing Company","Double Shot","160 E Hill Rd","","Monson","MA","1057","42.08938597",-72.28960609
+"351","Trillium Brewing Company","Artaic","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"352","Trillium Brewing Company","Galaxy Dry Hopped Fort Point Pale Ale","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"353","Trillium Brewing Company","Upper Case","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"354","Trillium Brewing Company","Fort Point Pale Ale","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"355","Trillium Brewing Company","Double Dry Hopped Congress Street","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"356","Trillium Brewing Company","Congress Street IPA","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"357","Trillium Brewing Company","Headroom Double IPA","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"358","Trillium Brewing Company","Mosaic Dry Hopped Fort Point","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"359","Trillium Brewing Company","Vicinity","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"360","Trillium Brewing Company","Double Dry Hopped Sleeper Street IPA","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"361","Trillium Brewing Company","Melcher Street IPA","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"362","Trillium Brewing Company","Heavy Mettle","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"363","Trillium Brewing Company","Scaled Up","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"364","Trillium Brewing Company","Double Dry Hopped Melcher Street","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"365","Trillium Brewing Company","Double Dry Hopped Fort Point Pale Ale","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"366","Trillium Brewing Company","Dialed In","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"367","Trillium Brewing Company","Double Dry Hopped Scaled","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"368","Trillium Brewing Company","Cutting Tiles","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"369","Trillium Brewing Company","Dusk Trill Dawn","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"370","Trillium Brewing Company","Dialed In (w/ Sauvignon Blanc Juice)","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"371","Trillium Brewing Company","Headroom","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"372","Trillium Brewing Company","Double Dry Hopped Sleeper Street","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"373","Trillium Brewing Company","Cutting Tiles (Mosaic)","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"374","Trillium Brewing Company","The Streets","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"375","Trillium Brewing Company","Scaled Way Up","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"376","Trillium Brewing Company","Cutting Tiles (Galaxy)","369 Congress St","","Boston","MA","2210","42.08938597",-72.28960609
+"377","Unibroue","La Fin Du Monde","80 Rue des Carrières","Canada","Chambly","QC","J3L 2H6","45.4411889",-73.2636697
+"378","Voodoo Brewing Company","Grande Negro Voodoo Papi - Bourbon Barrel Aged","215 Arch St","","Meadville","PA","16335","42.3492432",-71.0445707
+"379","Voodoo Brewing Company","ManBearPig","215 Arch St","","Meadville","PA","16335","42.3492432",-71.0445707
+"380","Weisses Br„uhaus G. Schneider & Sohn GmbH","Schneider Weisse Tap 6 Unser Aventinus","Emil-Ott-Straße 1","","Kelheim","Germany","93309","48.9172322",11.8726909
+"381","Westbrook Brewing Company","Mexican Cake","510 Ridge Rd","","Mt Pleasant","SC","29464","41.6372706",-80.1547476
+"382","Willoughby Brewing","Nut Smasher","4057 Erie Street","","Willoughby","OH","44094","41.6414616",-81.40649952
